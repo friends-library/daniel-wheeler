@@ -5,7 +5,7 @@
 * Cholera at Petersburg, etc.
 * Epistle to Friends of York Quarterly Meeting, 1832 etc
 
-[.letter-participants]
+[.letter-heading]
 To Sarah Smith, Sheffield
 
 [.signed-section-context-open]
@@ -41,7 +41,7 @@ in declaring "`the mighty acts of the Lord to my benighted fellow-creatures,`
 +++[+++About this period the cholera prevailed with great virulence at Petersburg;
 the two following letters give some description of this awful visitation.]
 
-[.letter-participants]
+[.letter-heading]
 To Sarah Backhouse, York
 
 [.signed-section-context-open]
@@ -230,7 +230,7 @@ in the Spirit,`"--the incense will be continually burning:
 and "`in all things we are more than conquerors,
 through Him that loved us;`"--to whom be the praise and the glory forever.
 
-[.letter-participants]
+[.letter-heading]
 To Richard Cockin, Doncaster
 
 [.signed-section-context-open]
@@ -345,7 +345,7 @@ the remembrance of them remains sweet and precious,
 and I trust will lastingly endure with freshness and fragrance, and brighten the days,
 that I may yet have to sojourn in Mesech, and dwell in the tents of Kedar.
 
-[.letter-participants]
+[.letter-heading]
 To Friends of York Quarterly Meeting
 
 [.signed-section-context-open]
@@ -516,7 +516,7 @@ In the love of the gospel, I remain your affectionate friend and brother,
 [.signed-section-signature]
 Daniel Wheeler
 
-[.letter-participants]
+[.letter-heading]
 To John Hipsley, Hull
 
 [.signed-section-context-open]
@@ -542,7 +542,7 @@ a great weight will be removed from my shoulders; and if thought objectionable,
 I shall still rejoice in having endeavoured to discharge my duty;
 which will enable me to bear the disappointment with patience and submission.
 
-[.letter-participants]
+[.letter-heading]
 To Elizabeth Backhouse, York
 
 [.signed-section-context-open]

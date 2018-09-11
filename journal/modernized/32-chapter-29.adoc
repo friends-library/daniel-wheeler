@@ -789,7 +789,7 @@ An acknowledgment of the receipt of this document was sent to Oahu by the Britis
 Richard Charlton, as before hinted at; a copy of which now follows,
 with the substance of what quickened upon my mind to the members of the mission.
 
-[.letter-participants]
+[.letter-heading]
 To the Members of the Mission at the Sandwich Islands
 
 [.salutation]

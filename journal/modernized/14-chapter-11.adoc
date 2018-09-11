@@ -23,7 +23,7 @@ and afterwards that held in London, returning to Petersburg in the Sixth Month f
 [.offset]
 The succeeding extracts are from letters written during this period.
 
-[.letter-participants]
+[.letter-heading]
 To Sarah Smith, Sheffield
 
 [.signed-section-context-open]
@@ -68,7 +68,7 @@ I believe that many have been instructed by this bed-side.
 My little address is now in the press, in York, as well as in London,
 so that I hope it will shortly appear at Sheffield.
 
-[.letter-participants]
+[.letter-heading]
 To His Absent Family
 
 [.signed-section-context-open]
@@ -437,7 +437,7 @@ I reproved them for it; and I believe many thought it a solemn time.
 The meeting in the Garrison town, was larger than any preceding it;
 and was a highly favoured time throughout.
 
-[.letter-participants]
+[.letter-heading]
 To Sarah Smith, Sheffield
 
 [.signed-section-context-open]
@@ -500,7 +500,7 @@ if I find a steam-boat starting the same day.
 It is very clear that this is not the place of rest for me,
 but I humbly hope it is a road that leads to it.
 
-[.letter-participants]
+[.letter-heading]
 To His Wife
 
 [.signed-section-context-open]

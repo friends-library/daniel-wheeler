@@ -271,7 +271,7 @@ footnote:[This letter of Daniel Wheeler was taken from
 the Journal of the Life of John Wilbur,
 and included in this memoir by The Friends Library.]]
 
-[.letter-participants]
+[.letter-heading]
 To John Wilbur
 
 [.signed-section-context-open]

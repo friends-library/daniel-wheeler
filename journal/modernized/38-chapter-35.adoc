@@ -333,7 +333,7 @@ but living and substantial truth.
 footnote:[This letter was not taken from the Journal of the Life and Labour
 of John Wilbur and included in this memoir by The Friends Library.]]
 
-[.letter-participants]
+[.letter-heading]
 To John Wilbur
 
 [.signed-section-context-open]

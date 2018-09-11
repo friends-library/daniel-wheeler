@@ -17,7 +17,7 @@ also the Yearly Meeting held in London.
 
 The following extracts are from letters written on, and after, his return to Russia.
 
-[.letter-participants]
+[.letter-heading]
 To John Hipsley, Hull
 
 [.signed-section-context-open]
@@ -40,7 +40,7 @@ the tribute of thanksgiving and praise to the great and good Shepherd;
 unto whom not only every sheep, but the most helpless lamb, of the flock is known,
 wherever situated, or however hidden.
 
-[.letter-participants]
+[.letter-heading]
 To One of His Family
 
 [.signed-section-context-open]
@@ -92,7 +92,7 @@ and be preserved from the many evils that are in the world,
 and alive unto Him who liveth for ever, through Jesus Christ, the Saviour of men:
 whose blessed Spirit dwelleth in the contrite and humble heart.
 
-[.letter-participants]
+[.letter-heading]
 To Richard Cockin, Doncaster
 
 [.signed-section-context-open]
@@ -145,7 +145,7 @@ that the great and good work is going forward in the hearts of some,
 and perhaps in the hearts of many,
 where least expected or looked for by poor short-sighted man.
 
-[.letter-participants]
+[.letter-heading]
 To Samuel Stanbfield^
 footnote:[Samuel Stansfield had resided some years in Petersburg,
 and been a constant attender of the little gathering at Daniel Wheeler's house.]
@@ -196,7 +196,7 @@ which, though unutterable, are understood even in sighs and groans.
 he gives an account of the death of the Emperor Alexander in the south of Russia,
 and of the occurrences at the capital consequent upon that lamented event.]
 
-[.letter-participants]
+[.letter-heading]
 To John Hipsley, Hull
 
 [.signed-section-context-open]
@@ -404,7 +404,7 @@ whose wondrous mercy has never been withheld,
 from the days of my youth unto the present hour.^
 footnote:[See Appendix B.]
 
-[.letter-participants]
+[.letter-heading]
 To Balby Monthly Meeting
 
 [.signed-section-context-open]
@@ -495,7 +495,7 @@ In the love of the gospel, I remain your affectionate friend and brother,
 [.signed-section-signature]
 Daniel Wheeler
 
-[.letter-participants]
+[.letter-heading]
 To Richard Cockin, Doncaster
 
 [.signed-section-context-open]
@@ -543,7 +543,7 @@ simple, and virtuous example.
 It may be said, she died generally beloved and regretted, and very deservedly so.
 Her decease took place on the 4th of Fifth Month, O. S.
 
-[.letter-participants]
+[.letter-heading]
 To One Of His Family
 
 [.signed-section-context-open]
@@ -630,7 +630,7 @@ and may be disposed to keep near to that power,
 which so evidently and remarkably directed his steps,
 and delivered him from the hands of his enemies.
 
-[.letter-participants]
+[.letter-heading]
 To Richard Cockin, Doncaster
 
 [.signed-section-context-open]

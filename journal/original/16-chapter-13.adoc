@@ -13,7 +13,7 @@ and to repair to his native country.
 The commencement and progress of this movement,
 are alluded to in the following extracts from his letters.]
 
-[.letter-participants]
+[.letter-heading]
 To John Hipsley, Hull
 
 [.signed-section-context-open]
@@ -93,7 +93,7 @@ even "`in the fires.`"
 and set sail for England:--the following letter is written
 when on the point of quitting the port of Cronstadt.]
 
-[.letter-participants]
+[.letter-heading]
 To His Wife
 
 [.signed-section-context-open]
@@ -154,7 +154,7 @@ I am thine, very affectionately,
 [.signed-section-signature]
 Daniel Wheeler
 
-[.letter-participants]
+[.letter-heading]
 To The Same
 
 [.signed-section-context-open]
@@ -209,7 +209,7 @@ a large quantity of water had collected in her,
 and the cargo damaged, if nothing worse.
 I intend, if permitted, to keep a sharp look out upon it still.
 
-[.letter-participants]
+[.letter-heading]
 To Sarah Smith, Sheffield
 
 [.signed-section-context-open]
@@ -262,7 +262,7 @@ but rather to rejoice in that we are accounted worthy to suffer for the great na
 s sake,--in the promotion of the cause of truth and righteousness in the earth,
 according to the measure allotted us.
 
-[.letter-participants]
+[.letter-heading]
 To His Wife
 
 [.signed-section-context-open]
@@ -373,7 +373,7 @@ This is the true God, and eternal life.`"
 "`He that believeth on the Son of God hath the witness in himself:`"--yea,
 "`he that hath the Son hath life; and he that hath not the Son of God hath not life.`"
 
-[.letter-participants]
+[.letter-heading]
 To His Children
 
 [.signed-section-context-open]

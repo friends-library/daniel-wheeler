@@ -6,7 +6,7 @@
 * Address to Balby Monthly Meeting, 1828
 * General Correspondence
 
-[.letter-participants]
+[.letter-heading]
 To Balby Monthly Meeting
 
 [.signed-section-context-open]
@@ -88,7 +88,7 @@ and remain their affectionate Friend,
 [.signed-section-signature]
 Daniel Wheeler
 
-[.letter-participants]
+[.letter-heading]
 To John Hipsley, Hull
 
 [.signed-section-context-open]
@@ -119,7 +119,7 @@ He has a great work before him; and stands in need of that wisdom,
 which is better than rubies,
 to direct and support him in such an arduous and responsible station.
 
-[.letter-participants]
+[.letter-heading]
 To David Mallinso, Sheffield
 
 [.signed-section-context-open]
@@ -180,7 +180,7 @@ against which the storms and afflictions of time can make no impression,
 beyond that of producing a renewed strain of acceptable devotion,
 in the sublime language of "`Thy will be done.`"
 
-[.letter-participants]
+[.letter-heading]
 To Richard Cockin, Doncaster
 
 [.signed-section-context-open]
@@ -306,7 +306,7 @@ may again be truly applicable;--"`The anointing
 which ye have received of him abideth in you,
 and ye need not that any man teach you.`"
 
-[.letter-participants]
+[.letter-heading]
 To Balby Monthly Meeting
 
 [.signed-section-context-open]
@@ -456,7 +456,7 @@ I remain your affectionate friend and brother,
 [.signed-section-signature]
 Daniel Wheeler
 
-[.letter-participants]
+[.letter-heading]
 To Richard Cockin, Doncaster
 
 [.signed-section-context-open]
@@ -551,7 +551,7 @@ But in the midst of all, my soul ventureth to hope in the goodness and mercy of 
 and that, through the merits of a crucified Saviour,
 my sins--even mine--will be blotted out.
 
-[.letter-participants]
+[.letter-heading]
 To Sarah Smith, Sheffield
 
 [.signed-section-context-open]
@@ -709,7 +709,7 @@ and His name glorified.
 Farewell, my dear friend; may heavenly goodness encircle, and comfort,
 and strengthen thy heart.
 
-[.letter-participants]
+[.letter-heading]
 To a Friend
 
 [.signed-section-context-open]
@@ -821,7 +821,7 @@ nothing short of an Almighty power can open the blind eyes,
 and change the stony heart to a heart of flesh,
 capable of receiving the impressions of the everlasting and unchangeable Truth.
 
-[.letter-participants]
+[.letter-heading]
 To John Hipsley, Hull
 
 [.signed-section-context-open]
@@ -837,7 +837,7 @@ to silence the "`Lo! here,`" and "`Lo! there`"--and
 banish from the earth those desolating scourges,
 which make it so destitute of the presence of the Lord.
 
-[.letter-participants]
+[.letter-heading]
 To David Mallinson, Sheffield
 
 [.signed-section-context-open]
@@ -952,7 +952,7 @@ but I think my pen could not be employed in a better cause, or for a better Mast
 at the same time believing, that it will be accepted in the same love,
 that prompted me to write it.
 
-[.letter-participants]
+[.letter-heading]
 To a Friend, (residing In Finland.)
 
 [.signed-section-context-open]
@@ -1100,7 +1100,7 @@ that are qualified from heartfelt experience to be employed in his service,
 if it be His will to call for them,
 and send them to speak a word in due season to others.
 
-[.letter-participants]
+[.letter-heading]
 To His Son Joshua
 
 [.signed-section-context-open]
@@ -1167,7 +1167,7 @@ and although an utter stranger to business in every shape,
 yet my way was made prosperous; though perhaps what I thought prosperity,
 would be despised by most in the present day, and probably by many in that day also.
 
-[.letter-participants]
+[.letter-heading]
 To One of His Children
 
 [.signed-section-context-open]
@@ -1214,7 +1214,7 @@ to endeavour to be prepared for the change, that will certainly overtake us;
 that we may be like the wise virgins,
 provided with "`oil in our vessels with our lamps.`"
 
-[.letter-participants]
+[.letter-heading]
 To Richard Cockin
 
 [.signed-section-context-open]

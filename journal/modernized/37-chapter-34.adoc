@@ -1279,7 +1279,7 @@ and the numerous surplus stores belonging to the ship disposed of;
 these engagements undertaken in an exhausted state of health, occupied much time.
 The following extracts from his journal and letters, refer to this period.]
 
-[.letter-participants]
+[.letter-heading]
 To John Kitching
 
 [.signed-section-context-open]
@@ -1341,7 +1341,7 @@ wickedness with which this place overflows.
 Let the conduct of those sailors be ever so notorious,
 no one asks to what ship they belong; the thing is so common, and of hourly occurrence.
 
-[.letter-participants]
+[.letter-heading]
 To the Same
 
 [.signed-section-context-open]

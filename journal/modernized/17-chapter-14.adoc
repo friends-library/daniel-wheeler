@@ -5,7 +5,7 @@
 * Receives Intelligence of the Decease of His Wife and of the Severe Illness of Others in His Family
 * Letters to His Absent Children
 
-[.letter-participants]
+[.letter-heading]
 To Sarah Smith
 
 [.signed-section-context-open]
@@ -49,7 +49,7 @@ and I trust preparing me to do his righteous will,
 which can in no other way be accomplished, than by the total surrender of our all to Him,
 without reservation.
 
-[.letter-participants]
+[.letter-heading]
 To His Wife
 
 [.signed-section-context-open]
@@ -133,7 +133,7 @@ In truest affection,
 [.signed-section-signature]
 Daniel Wheeler
 
-[.letter-participants]
+[.letter-heading]
 To His Children in Russia
 
 [.signed-section-context-open]
@@ -321,7 +321,7 @@ Not a wish dares to intrude upon the peaceful resignation of my mind.
 I only regret that I had not a personal share in the
 general distress and conflict of the occasion.
 
-[.letter-participants]
+[.letter-heading]
 To His Children
 
 [.signed-section-context-open]
@@ -545,7 +545,7 @@ and with you wait and lean on the bosom of the beloved and only availing Comfort
 in humble prostration of soul; trusting that I shall be favoured to stand resigned,
 to whatever may be the Divine will.
 
-[.letter-participants]
+[.letter-heading]
 To One of His Children
 
 [.signed-section-context-open]

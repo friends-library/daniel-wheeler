@@ -6,7 +6,7 @@
 * Sundry Letters to His Friends in England
 * Visit from the Emperor Alexander
 
-[.letter-participants]
+[.letter-heading]
 To David Mallinson
 
 [.signed-section-context-open]
@@ -60,7 +60,7 @@ I have several times seen this.
 But though the wolf prowles round our habitation by night,
 we are favoured to be quiet and peaceful within, and to partake of many consolations.
 
-[.letter-participants]
+[.letter-heading]
 To Balby Monthly Meeting
 
 [.signed-section-context-open]
@@ -222,7 +222,7 @@ I remain your affectionate friend,
 [.signed-section-signature]
 Daniel Wheeler
 
-[.letter-participants]
+[.letter-heading]
 To Samuel Smith
 
 [.signed-section-context-open]
@@ -333,7 +333,7 @@ in his own time will not only reveal it to us, but will enable us to perform it,
 to the praise of His great and excellent name, and to our unspeakable peace.
 Farewell in the Lord, my dear friend.
 
-[.letter-participants]
+[.letter-heading]
 To Richard Cockin
 
 [.signed-section-context-open]
@@ -432,7 +432,7 @@ Believe me your truly affectionate friend,
 [.signed-section-signature]
 Daniel Wheeler
 
-[.letter-participants]
+[.letter-heading]
 To Balby Monthly Meeting
 
 [.signed-section-context-open]
@@ -491,7 +491,7 @@ I remain your affectionate friend,
 [.signed-section-signature]
 Daniel Wheeler
 
-[.letter-participants]
+[.letter-heading]
 To John Hipslby
 
 [.signed-section-context-open]
@@ -549,7 +549,7 @@ and at this time at least thirty square yards of it are uncovered;
 and we are told it cannot be repaired until warm weather comes again,
 as being made of sheet iron, the workmen cannot well handle it during the frost.
 
-[.letter-participants]
+[.letter-heading]
 To S. Smith
 
 [.signed-section-context-open]
@@ -629,7 +629,7 @@ they are continually making signals to other vessels, by way of warning them.
 To some who follow, the warning may be quite unnecessary, as such may be amply prepared,
 having a glorious prospect of an entrance being abundantly administered unto them.
 
-[.letter-participants]
+[.letter-heading]
 To Richard Cockin
 
 [.signed-section-context-open]

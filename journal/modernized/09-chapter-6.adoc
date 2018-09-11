@@ -285,7 +285,7 @@ fervently, and at this time, the desire of your friend,
 [.signed-section-signature]
 Daniel Wheeler
 
-[.letter-participants]
+[.letter-heading]
 To Mordecai Casson.
 
 [.signed-section-context-open]
@@ -343,7 +343,7 @@ that my eldest son also begins to feel the importance of this;
 and it is a great favour when the eldest takes the right way,
 as there is then a hope that the younger ones will follow after.
 
-[.letter-participants]
+[.letter-heading]
 To Barbara Hoyland.
 
 [.signed-section-context-open]
@@ -413,7 +413,7 @@ I remain, etc.
 [.signed-section-signature]
 Daniel Wheeler
 
-[.letter-participants]
+[.letter-heading]
 To David Mallinson of Sheffield.
 
 [.signed-section-context-open]

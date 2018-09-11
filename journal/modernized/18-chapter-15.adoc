@@ -19,7 +19,7 @@ since that time, however,
 macadamized roads and good post-houses have been constructed
 along the whole line from Hamburgh to Petersburg.]
 
-[.letter-participants]
+[.letter-heading]
 To One of His Sons
 
 [.signed-section-context-open]
@@ -185,7 +185,7 @@ when on the 21st they were overtaken by a heavy storm,
 which induced them to seek for shelter near the Isle of Wight.
 The following extracts are from his journal and letters written at this time.]
 
-[.letter-participants]
+[.letter-heading]
 To a Friend
 
 [.signed-section-context-open]
@@ -202,7 +202,7 @@ and though the present dispensation may impede our progress towards Cape Horn:
 yet it is my belief, and I am comforted in it, that all will be well at last,
 because ordered by Him in whose will I desire to rest, and in whose tender mercy I trust.
 
-[.letter-participants]
+[.letter-heading]
 To Mary Backhouse
 
 [.signed-section-context-open]
@@ -324,7 +324,7 @@ reconciles me to all the turnings and overturnings of His holy hand;
 and that He will continue to bear me up, is my humble prayer,
 until He shall be pleased to say, 'it is enough.'
 
-[.letter-participants]
+[.letter-heading]
 To Hannah Breary
 
 [.signed-section-context-open]
