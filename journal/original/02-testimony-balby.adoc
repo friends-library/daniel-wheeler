@@ -1,7 +1,7 @@
 [#testimony-balby, short="Testimony of Balby Monthly Meeting"]
 == A Testimony
 
-[.alt]
+[.blurb]
 === Of Balby Monthly Meeting in the County of York, concerning Daniel Wheeler deceased.
 
 Our beloved friend Daniel Wheeler was the youngest son

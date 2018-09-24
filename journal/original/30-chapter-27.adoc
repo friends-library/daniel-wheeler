@@ -280,7 +280,7 @@ who alone can make it subservient to any purpose for his own praise and glory,
 and the well-being of the workmanship of his hands.
 The following is a copy of the address:--
 
-[.alt]
+[.blurb]
 === Address to the Rulers of the Sandwich Islands
 
 As the present and eternal well-being of the inhabitants of the Sandwich Islands,

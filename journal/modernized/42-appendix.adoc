@@ -3,7 +3,7 @@
 [discrete]
 === Appendix A:
 
-[.alt]
+[.blurb]
 === Letters of the Empress Elizabeth to Her Mother, Relative to the Last Illness and Death of Her Husband, the Emperor Alexander of Russia.
 
 [.salutation]
@@ -57,7 +57,7 @@ although originally intended for insertion, want of space has compelled us to om
 [discrete]
 === Appendix C:
 
-[.alt]
+[.blurb]
 === Extracts from the Account of the Last Illness of Jane, Wife of Daniel Wheeler, Inserted in the Annual Monitor for 1835.
 
 It was on the 10th day of the Twelfth Month, 1832, N. S.,
@@ -151,7 +151,7 @@ who had thus been pleased to manifest His strength in our exceeding weakness.
 [discrete]
 === Appendix D:
 
-[.alt]
+[.blurb]
 === The Following Statement of the Result of Daniel Wheeler's Agricultural Labours in the Neighbourhood of Petersburg, Was Received Too Late for the Insertion of a Reference to It In the Body of the Work.
 
 The land placed under Daniel Wheeler's care in 1818 consisted chiefly
@@ -179,7 +179,7 @@ had not met with all the success that could have been desired.
 [discrete]
 === Appendix E:
 
-[.alt]
+[.blurb]
 === Extracts from the Letters of Charles Wheeler, Relative to the South Sea Islands, Addressed To His Family.
 
 South Pacific, Second Month 26th, 1835.--Some fresh marine phenomena were seen today,

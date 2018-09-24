@@ -1,7 +1,7 @@
 [#testimony-new-york, short="Testimony of New York Monthly Meeting"]
 == A Testimony
 
-[.alt]
+[.blurb]
 === Of the Monthly Meeting of Friends of New York, concerning our Friend Daniel Wheeler.
 
 '`At the Yearly Meeting of Friends held in New York, by adjournments,
