@@ -368,7 +368,7 @@ at which place I was treated with great kindness and courtesy,
 and found in it a quiet asylum for several days.
 
 The next morning, I had an hour's conversation with Basil Papoff:
-he is called 'his Excellency,' and I think with some propriety,
+he is called "`his Excellency,`" and I think with some propriety,
 as he appears an excellent man.
 He thought my business would go on slowly,
 as the Emperor was so much engaged on account of the marriage of his brother,
@@ -436,7 +436,7 @@ He asked many questions with great affability in
 Russian,--my companion interpreting between us.
 Amongst others, he inquired what family I had; which being answered,
 he wished to know whether I would bring them all with me, if I came to reside in Russia.
-I said, 'Yes; I should not leave a hoof behind; at which he seized my hand,
+I said, "`Yes; I should not leave a hoof behind;`" at which he seized my hand,
 and expressed his satisfaction.
 He then inquired, how I should do,
 as there was no place of worship for me,--no meeting--no society,--
@@ -501,7 +501,7 @@ Seventh Month 27th, First day.--After I had sat down in my room to hold my meeti
 I was interrupted by the coming of an individual, whom I had before seen.
 He resides about twenty versts from hence,
 and had come on purpose to inquire into the principles of Friends.
-He had once had a sight of 'Barclay's Apology,'
+He had once had a sight of "`Barclay's Apology,`"
 but was never able to get it a second time,
 and I much regretted I had not one to give him.
 He is well acquainted with the Scriptures,
@@ -532,9 +532,9 @@ At last we entered the palace, and after going through a range of rooms,
 I was shown into the apartment of the Emperor,
 who received me with more parade than I expected;
 but I thought afterwards this was only on account of the page,
-for as soon as the door was shut, he took me by the hand, saying, 'Sit down,
-sir.' I was not however, quite ready to sit down; for the salutation arose in my heart,
-of "`Grace, mercy, and peace be multiplied, from God the Father,
+for as soon as the door was shut, he took me by the hand, saying, "`Sit down,
+sir.`" I was not however, quite ready to sit down; for the salutation arose in my heart,
+of `"`Grace, mercy, and peace be multiplied, from God the Father,
 and our Lord Jesus Christ,`" upon the noble Emperor, etc.
 As I proceeded I took off my hat, and the Emperor stood quite still,
 until I had finished; when we both sat down.
@@ -566,7 +566,7 @@ which I declined; but afterwards I told him,
 that if his friends inclined to sit down with me in a large room at the Bible Office,
 if I had any thing for them they should have it, and if not, they must forgive me.
 It was accordingly fixed that we should meet at seven o'clock the next evening.
-I repaired there about the time,
+I returned there about the time,
 and found a larger number assembled than I had any expectation of,
 including four ministers of the Independent denomination.
 Scarcely an individual amongst them had sat in silence before, in this way: it was,
@@ -576,7 +576,7 @@ to the relief of my own mind, and the sitting ended well:
 there seemed something like an unwillingness on their part to break up: I was, I trust,
 thankful when it was over.
 
-The forepart of the 18th and 19th instant, was employed in taking leave of my friends,
+The forepart of the 18th and 19th of this month, was employed in taking leave of my friends,
 and preparing for my homeward voyage.
 On the 20th, I went down to Cronstadt by steam-boat,
 and proceeded at once on board the Fortune, a fine ship, for Hull.
