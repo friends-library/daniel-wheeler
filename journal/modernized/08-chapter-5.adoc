@@ -7,7 +7,7 @@
 * Interview with Prince Galitzin at Petersburg, also with the Emperor
 * Voyage Homeward
 
-A New field of action was now about to open before him,
+A new field of action was now about to open before him,
 for which his mind had been secretly preparing,
 until a willingness had been begotten in his heart,
 to follow the requisitions of his Lord, whithersoever these might lead him,
@@ -23,8 +23,8 @@ and as his father approached him,
 his eye rested on Petersburg with such an intimation
 that there his Divine Master would send him,
 that, said he, in relating the circumstance many years afterwards to an intimate friend,
-'I never afterwards doubted f he however kept the matter entirely to himself,
-believing that when the right time should come, way would be made for him.
+"`I never afterwards doubted; he however kept the matter entirely to himself,
+believing that when the right time should come, way would be made for him.`"
 
 Early in the year 1817, enquiry having been made, by order of the late Emperor of Russia,
 for a person to undertake the management of an
@@ -112,7 +112,7 @@ as well as ability to perform the service required, whatever it might be.
 
 His own explanation of the motives which induced him to enter into this engagement,
 is thus given by himself, in a paper addressed to an official person in Petersburg,
-during his first visit to that city, from which the following is extracted:--
+during his first visit to that city, from which the following is extracted:
 
 [.signed-section-context-open]
 Eighth Month 13th, 1817.
@@ -151,8 +151,8 @@ and to do whatsoever he is pleased to call for.
 
 Some time after this, as I was returning home late one evening,
 I had a sense of invitation after this manner,
-'What if the Emperor of Russia should need a person for the superintendence
-of agriculture--at which time a willingness was begotten in my mind to go,
+"`What if the Emperor of Russia should need a person for the superintendence
+of agriculture?`"--at which time a willingness was begotten in my mind to go,
 if that should be the case; but when, or in what manner, this was to come to pass,
 was totally hidden from me.
 The frequent conflict of soul I had to pass through,
@@ -175,7 +175,7 @@ and to endeavour to stir up the pure mind by way of
 remembrance of those things that are most excellent,
 in visits to my brethren and sisters, in their separate churches,
 in different parts of England;
-and I humbly hope the day' s work was keeping pace with the day:
+and I humbly hope the day's work was keeping pace with the day:
 but now a greater trial of faith was to be exercised,
 a greater sacrifice to be made;--I must not only leave my family, but my country also.
 The second letter arrived from Russia, and the time seemed fully come.
@@ -188,16 +188,16 @@ If this offer be refused, I humbly trust the will will be accepted for the deed,
 and that obedience will have kept pace with knowledge;
 for verily it matters little our knowing, unless we practise also.
 It is "`not the hearers of the law, but the doers of it,
-that are justified`" in the sight of Almighty God: it is "`not every one that says, Lord!
-Lord! that shall enter into the kingdom of heaven,
+that are justified`" in the sight of Almighty God: it is "`not every one that says, "`Lord!
+Lord!`" that shall enter into the kingdom of heaven,
 but they that do the will,`" etc.:--and again, "`If you know these things,
 happy are you if you do them.`"
 In this case, I shall of course return immediately home,
 and resume my former occupations; committing myself to Him,
 who will not break the bruised reed, nor suffer it to be broken;
 and whom I earnestly desire to serve to the latest moment of my breath.^
-footnote:[The above was copied from the original in 'the Chancery of
-drainage and cultivation of the neighbourhood of Petersburg.']
+footnote:[The above was copied from the original in "`The Chancery of
+drainage and cultivation of the neighbourhood of Petersburg.`"]
 
 [.asterism]
 '''
@@ -252,7 +252,7 @@ and may He who has begun the good work in his heart, be pleased to carry it on,
 to the praise of His own great and excellent name,--for
 it is His own works only that can praise Him.
 I believe the language of our blessed Lord may be applied to
-this young man,--"`you are not far from the kingdom of God.`"
+this young man,--"`You are not far from the kingdom of God.`"
 We reached the ship in safety, between 11 and 12 o'clock at night,
 taking a pilot on board with us.
 If I should have been instrumental, in any degree, in fanning the immortal spark,
@@ -368,7 +368,7 @@ at which place I was treated with great kindness and courtesy,
 and found in it a quiet asylum for several days.
 
 The next morning, I had an hour's conversation with Basil Papoff:
-he is called 'his Excellency,' and I think with some propriety,
+he is called "`his Excellency,`" and I think with some propriety,
 as he appears an excellent man.
 He thought my business would go on slowly,
 as the Emperor was so much engaged on account of the marriage of his brother,
@@ -436,7 +436,7 @@ He asked many questions with great affability in
 Russian,--my companion interpreting between us.
 Amongst others, he inquired what family I had; which being answered,
 he wished to know whether I would bring them all with me, if I came to reside in Russia.
-I said, 'Yes; I should not leave a hoof behind; at which he seized my hand,
+I said, "`Yes; I should not leave a hoof behind;`" at which he seized my hand,
 and expressed his satisfaction.
 He then inquired, how I should do,
 as there was no place of worship for me,--no meeting--no society,--
@@ -478,7 +478,7 @@ then a supply was again vouchsafed.
 Whereas if I could have proceeded, as it were without stopping,
 I should have overpowered the interpreter,
 and the work would have been marred altogether.
-Thus the blind are guided in wavs that they know not,
+Thus the blind are guided in ways that they know not,
 and in paths that they have not seen:
 but truly the pillars of my tabernacle were mightily shaken.
 May I ever be preserved in that humility,
@@ -501,7 +501,7 @@ Seventh Month 27th, First day.--After I had sat down in my room to hold my meeti
 I was interrupted by the coming of an individual, whom I had before seen.
 He resides about twenty versts from hence,
 and had come on purpose to inquire into the principles of Friends.
-He had once had a sight of 'Barclay's Apology,'
+He had once had a sight of Barclay's [.book-title]#Apology#,
 but was never able to get it a second time,
 and I much regretted I had not one to give him.
 He is well acquainted with the Scriptures,
@@ -532,9 +532,9 @@ At last we entered the palace, and after going through a range of rooms,
 I was shown into the apartment of the Emperor,
 who received me with more parade than I expected;
 but I thought afterwards this was only on account of the page,
-for as soon as the door was shut, he took me by the hand, saying, 'Sit down,
-sir.' I was not however, quite ready to sit down; for the salutation arose in my heart,
-of "`Grace, mercy, and peace be multiplied, from God the Father,
+for as soon as the door was shut, he took me by the hand, saying, "`Sit down,
+sir.`" I was not however, quite ready to sit down; for the salutation arose in my heart,
+of `"`Grace, mercy, and peace be multiplied, from God the Father,
 and our Lord Jesus Christ,`" upon the noble Emperor, etc.
 As I proceeded I took off my hat, and the Emperor stood quite still,
 until I had finished; when we both sat down.
@@ -550,9 +550,9 @@ which brought the peculiar principles of our Society into view; this he read,
 and questioned me about all of them; which gave time to clear myself fully.
 I had a good deal to say to him on silent waiting.
 I remember my last words were, the expression of a desire that attended my mind,
-'that when time shall rob you of your earthly crown,
+"`that when time shall rob you of your earthly crown,
 an inheritance incorruptible and undefiled--a crown immortal,
-may be your happy portion.' He held my hand fast in his for some time,
+may be your happy portion.`" He held my hand fast in his for some time,
 and did not utter another word.
 I then returned to Prince Galitzin, and on taking leave,
 I had a little matter to express to him, which, +++_______+++ who was present, interpreted.
@@ -566,7 +566,7 @@ which I declined; but afterwards I told him,
 that if his friends inclined to sit down with me in a large room at the Bible Office,
 if I had any thing for them they should have it, and if not, they must forgive me.
 It was accordingly fixed that we should meet at seven o'clock the next evening.
-I repaired there about the time,
+I returned there about the time,
 and found a larger number assembled than I had any expectation of,
 including four ministers of the Independent denomination.
 Scarcely an individual amongst them had sat in silence before, in this way: it was,
@@ -576,7 +576,7 @@ to the relief of my own mind, and the sitting ended well:
 there seemed something like an unwillingness on their part to break up: I was, I trust,
 thankful when it was over.
 
-The forepart of the 18th and 19th instant, was employed in taking leave of my friends,
+The forepart of the 18th and 19th of this month, was employed in taking leave of my friends,
 and preparing for my homeward voyage.
 On the 20th, I went down to Cronstadt by steam-boat,
 and proceeded at once on board the Fortune, a fine ship, for Hull.
@@ -616,8 +616,8 @@ and at five o'clock made a signal for a pilot to carry us through the grounds;
 but could not perceive one coming off to us.
 As I was walking the deck, it just passed my mind, how soon our prospects are blighted;
 and going to the quarter-deck, I heard the sailor who was heaving the lead cry,
-'by the deep four, a quarter less four,--by the mark three,
-a quarter less three,'--and immediately after I felt the ship strike on a rock;
+"`by the deep four, a quarter less four,--by the mark three,
+a quarter less three,`"--and immediately after I felt the ship strike on a rock;
 in a few seconds she struck a second time, and then stuck fast.
 The crew were of course all in a state of consternation,
 and the captain was almost speechless; and indeed it was a serious moment,
