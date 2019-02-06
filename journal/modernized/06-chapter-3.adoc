@@ -29,7 +29,7 @@ on the last day the cannon scarcely ceased to roar from sun-rise to sun-set.
 The regiment to which I belonged, was ordered on the reserve with three others;
 two of which were British, and the third Hanoverian.
 As the cannonade increased, the first regiment of reserve was called upon,
-in two hours after the second was summoned, and by eleven o'clock in the forenoon,
+in two hours after the second was summoned, and by eleven o`'clock in the forenoon,
 the third.
 The direction from which the sound of the conflict issued,
 left no doubt that it was rapidly approaching the ground on which we stood; and although,
@@ -48,7 +48,7 @@ and which began with shivering fits,
 just in the interval of waiting for the expected
 courier to call us to the field of slaughter.
 
-About three o'clock in the afternoon, a light dragoon arrived with a dispatch,
+About three o`'clock in the afternoon, a light dragoon arrived with a dispatch,
 but instead of its hastening us to the scene of action,
 it proved to be an order for us to join the rear of
 another regiment then retreating towards Nimeguen.
@@ -223,7 +223,7 @@ to the probability of having again to encounter the series of hardships and dist
 to which I should unavoidably be subjected.
 
 As I regained a little strength, I began to take notice of the state of things around me;
-and having daily heard a noise like that of a carpenter's shop,
+and having daily heard a noise like that of a carpenter`'s shop,
 I now ascertained the cause to be the nailing up of the coffins, each day,
 of those who had died in the last twenty-four hours; and I found that the dead-house,
 or place where the dead were deposited previously to interment,
@@ -477,4 +477,4 @@ and a great number of the inhabitants accompanied us out of the town,
 and showed us every respect.`"--Annual Register, 1795, p. 55, 56.]
 
 [.offset]
-+++[+++__Here ends the Author's biographical sketch of his own life.__]
++++[+++__Here ends the Author`'s biographical sketch of his own life.__]
