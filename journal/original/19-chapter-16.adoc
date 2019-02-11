@@ -6,7 +6,7 @@
 
 [.offset]
 +++[+++The succeeding extracts are from his journal and letters, commencing with the last date.]
-
+ 
 After despatching our letters by the pilot on the 10th of Third Month,
 we made sail into the offing at half-past four, p.m.,
 and stretching from under the shelter of the Isle of Wight,
@@ -200,8 +200,9 @@ and thence procure the needful supplies, if permitted to reach it in safety.
 steering the same course as ourselves, perhaps three or four miles distant from us;
 she was soon covered up by the night, and no more thought of.
 Being upon the deck,
-(an usual practice with me the fore-part of the night,) between nine and ten o`'clock,
-the carpenter suddenly exclaimed, '`Why here`'s the brig!`' Upon looking,
+(an usual practice with me the fore-part of the night,) between nine and ten o'clock,
+the carpenter suddenly exclaimed, "`Why here's the brig!`"
+Upon looking,
 I saw the vessel at a considerable distance from us; but soon perceived by the stars,
 that she was approaching with uncommon rapidity in a most suspicious direction,
 as if intending to cross our fore-foot, and cut us off.
@@ -290,7 +291,7 @@ and the nautical skill we possess on board of her.
 Although we seem to be destitute of all interest upon this coast,
 beyond that of the welfare of mankind the world over; yet,
 after being fifty-eight days from England, during fifty-seven of which,
-nothing was to be seen but water and sky; without having spoken another vessel,
+nothing was to be seen but water and sky; without having spoken to another vessel,
 or even seen more than six, the sight of Cape Frio was cheering and animating,
 and raised in my heart a tribute of thanksgiving and praise to our never-failing Helper,
 who hath in mercy sustained us in perfect safety,
