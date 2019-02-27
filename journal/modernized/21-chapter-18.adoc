@@ -103,7 +103,6 @@ and can only be performed acceptably in spirit and in truth.
 +++[+++In a letter from Hobart Town, bearing date the 21st of Tenth Month, 1834,
 the following passages occur.]
 
-
 Soon after my last letters were finally closed,
 our dear friends James Backhouse and George Washington Walker, returned to Hobart Town:
 as we had previous information of the time they were expected to arrive,
@@ -298,7 +297,6 @@ yet our little company were preserved in quietness, and divested of fear.
 At eleven o`'clock, next day, the 20th,
 they saw the light-house and signal-staff on the South Head,
 which forms one side of the entrance of Port Jackson.]
-
 
 A timely signal having been made, we got a pilot on board on nearing the reef,
 and immediately worked up the bay towards the harbour.
