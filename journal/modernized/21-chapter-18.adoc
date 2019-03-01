@@ -8,6 +8,7 @@
 * Illness of Daniel Wheeler
 * Sail for Botany Bay
 * Arrival at Sydney Interview with the Governor
+//Line 10 was underlined in book. Should 'Arrival at Sydney' and 'Interview with the govenor' be split into two lines?
 * Public Meeting at Sydney
 * Religious Engagements
 
@@ -324,8 +325,8 @@ There were two men not far off, who belonged to them, but they kept aloof.
 These women appeared to be in a poor state of health, and exceedingly shrunk:
 they could talk a little English, and on our making them some trifling presents,
 and saying that some of us would see them again, if they should be there tomorrow,
-one of them said, '`You welcome;
-come.`' It was affecting to behold the degraded condition of these natives of the soil.
+one of them said, '`You welcome; come.`'
+It was affecting to behold the degraded condition of these natives of the soil.
 The state of these poor creatures has been rendered abundantly more miserable,
 since the English have taken possession of their country,
 from the introduction of vices to which they were before strangers,
@@ -493,7 +494,7 @@ upon rather a different and more respectable footing than those of other ships;
 and the result has been, so far, that we have had comparatively no trouble with them.
 It is so common a thing for the shipping to lose their men here, that a few days ago,
 the question was put to me by General Bourke, the Governor,
-'`Have you lost any of your men?`' and it is satisfactory to know,
+"`Have you lost any of your men?`" and it is satisfactory to know,
 that some of the strangers who have attended our meetings on board, have,
 in more than one instance remarked,
 (as if of rare occurrence,) that our sailors look more like healthy, fresh-faced farmers,
