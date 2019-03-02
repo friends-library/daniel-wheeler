@@ -584,8 +584,7 @@ being an inch lower than when we experienced the
 hurricane in the neighbourhood of the Cape of Good Hope.
 This circumstance spread a gloom over us;
 having witnessed such dreadful weather about three weeks before,
-when the mercury was at 29'50,
-//The 29'50 was circled in the book, I'm not sure why
+when the mercury was at 29.50,
 and knowing the correctness of the barometer in former cases,
 our apprehensions were increasingly awakened;
 and under a sense that another close trial was not far distant,

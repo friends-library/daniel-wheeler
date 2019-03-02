@@ -7,8 +7,8 @@
 * Aborigines
 * Illness of Daniel Wheeler
 * Sail for Botany Bay
-* Arrival at Sydney Interview with the Governor
-//Line 10 was underlined in book. Should 'Arrival at Sydney' and 'Interview with the govenor' be split into two lines?
+* Arrival at Sydney 
+* Interview with the Governor
 * Public Meeting at Sydney
 * Religious Engagements
 
