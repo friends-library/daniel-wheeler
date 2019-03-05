@@ -795,6 +795,7 @@ and to have been raised from her wreck by the New Zealanders.
 On the 3rd of Eleventh Month,
 we started in company with C. Barff and a little boy on an
 excursion to the famous marai of Tabutabu Atea,--situated in
+// lint-disable invalid-character
 the district of Apóa. The wind being against us all the way,
 it was a hard pull of about twelve miles, which occupied nearly three hours,
 and unfortunately for us it rained at intervals most of the time.
