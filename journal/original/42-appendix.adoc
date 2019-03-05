@@ -1130,8 +1130,8 @@ naked plains,--here luxuriates on the smooth slopes, the deep shades,
 or the towering forest-clothed peaks and ridges,
 and the lungs inhale new life and vigour in the free,
 bracing atmosphere of a more genial clime.
-If to the smiles of surrounding nature are super-
-added the rare delights of congenial society,
+If to the smiles of surrounding nature are
+super-added the rare delights of congenial society,
 the wanderer and the exile might almost be tempted to forget
 for a moment that the wide world separates him from his home.
 But such an illusion must be of short duration:
@@ -1553,8 +1553,8 @@ The shores are built up by coral architects,
 and exhibit a curious instance of coralline formation
 intermingled with upheaved masses of original rock,
 which protrude in some places through the former,
-in a way that would lead to the supposition that sub-
-marine eruptions of comparatively recent date,
+in a way that would lead to the supposition that
+sub-marine eruptions of comparatively recent date,
 have encroached on a super-stratum of coral,
 which has been progressively rising round the coast.
 Coral sand and shells, etc., consolidated by the action of the elements,
