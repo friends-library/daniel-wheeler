@@ -590,16 +590,21 @@ and lead some to inquire into the cause.
 accompanying a translated copy of a note, with the original, from Mauiui,
 our pilot through the reef, as follows:--
 
-'`As I know not the names of you two gentlemen, I address you thus generally.
+[.embedded-content-document.letter]
+--
 
-'`Dear Friends,--All peace to you after diving through the waves all the way to Tahiti.
+As I know not the names of you two gentlemen, I address you thus generally.
+
+Dear Friends,--All peace to you after diving through the waves all the way to Tahiti.
 This is my little word, to which I desire you two to agree.
 Compassionate me, and come to my little dinner,
 about one or two of the day--a little friendly meeting.
-May you two be saved by Jehovah.`'
+May you two be saved by Jehovah.
 
 [.signed-section-signature]
 Mauiui
+
+--
 
 An answer was returned to Charles Barff,
 that rather than disappoint the intended kindness of Mauiui,
@@ -748,8 +753,8 @@ In the course of the time we were together at his house,
 the circumstance of the females coming so freely
 on board the Henry Freeling was mentioned,
 and the fears that I entertained on their account; but he said,
-'`Yours is called the "`Praying ship which is the reason of their venturing
-on board as they do.`' However pleasant and satisfactory it is to know the
+"`Yours is called the '`Praying Ship`' which is the reason of their venturing
+on board as they do.`" However pleasant and satisfactory it is to know the
 reason why our decks are so crowded with this description of female visitors,
 yet we find to our great regret,
 that the practice of others in going off to the shipping is carried
