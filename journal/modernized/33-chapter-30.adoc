@@ -597,7 +597,6 @@ The Henry Freeling anticipated our movement, and stretched in upon the coast,
 when the boat made its appearance;
 and we were favoured to get safely on board at half-past three o`'clock in the afternoon.
 A+++.+++ M`'Donald, and Alexander Cunningham accompanied us,
-// This "M`'Donald" is written like this in the PDF. I don't know what it means.
 and returned with the boat again to the shore.
 We got in our numerous articles without being materially injured by the spray of the sea,
 and at four o`'clock filled our sails and bore away to the westward;
@@ -746,8 +745,7 @@ yet none afforded specific directions for approaching these shores;
 and it was perplexing to find that a rough sketch printed by Mariner,
 (who long resided among the Tonga Isles,
 and published a history of them,) in our possession,
-disagreed in toto with two first-rate charts we had on board;
-//toto above is strange, I looked it up and it means "a young one". Doesn't seem to make sense in this sentence but it says this in the pdf too.
+disagreed entirely with two first-rate charts we had on board;
 and yet this imperfect sketch furnished to all appearance,
 the best directions for entering Port Refuge,
 although certainly never intended as a seaman`'s guide.
