@@ -315,8 +315,7 @@ most assuredly the Lord will punish these: He will visit for these things.
 "`Shall I not visit for these things,
 shall not my soul be avenged on such a nation as this?`" was the language of
 the Lord through his faithful prophet to a rebellious people formerly.
-Yes, He will sweep them from the face of the earth as with the besom of destruction.
-//this was circled in the book and I looked it up and it'a bundle of twigs bound to a stick to use as a broom. Should I change it to broom in the modernized?
+Yes, He will sweep them from the face of the earth as with the broom of destruction.
 Nothing is so calculated to destroy the happiness of
 the people as this curse of the human race,
 and to aggravate that awful disease which is now rapidly depopulating these islands.
@@ -591,6 +590,9 @@ and lead some to inquire into the cause.
 accompanying a translated copy of a note, with the original, from Mauiui,
 our pilot through the reef, as follows:--
 
+[.embedded-content-document.letter]
+--
+
 As I know not the names of you two gentlemen, I address you thus generally.
 
 Dear Friends,--All peace to you after diving through the waves all the way to Tahiti.
@@ -601,6 +603,8 @@ May you two be saved by Jehovah.
 
 [.signed-section-signature]
 Mauiui
+
+--
 
 An answer was returned to Charles Barff,
 that rather than disappoint the intended kindness of Mauiui,
@@ -749,7 +753,7 @@ In the course of the time we were together at his house,
 the circumstance of the females coming so freely
 on board the Henry Freeling was mentioned,
 and the fears that I entertained on their account; but he said,
-"`Yours is called the "`Praying Ship`" which is the reason of their venturing
+"`Yours is called the '`Praying Ship`' which is the reason of their venturing
 on board as they do.`" However pleasant and satisfactory it is to know the
 reason why our decks are so crowded with this description of female visitors,
 yet we find to our great regret,
