@@ -155,13 +155,13 @@ which I think contributed to humble them.
 
 31st.--This evening we were saluted with the joyful sound,
 from a fast sailing clipper schooner,
-'`Do you need a pilot? which being answered in the affirmative,
-'`then heave to`' was the word.
+"`Do you need a pilot?`" which being answered in the affirmative,
+"`then heave to`" was the word.
 Our decks rang with the cheers of all on board I believe, but myself,
 when our courses were hauled up, and the main-yard immediately thrown to the mast.
-The pilot soon boarded us to leeward, and the '`guessing`' shortly commenced,--such as,
-'`I guess you are from Liverpool? '`I guess you have had pretty smart weather? Etc.
-For my own part, I '`guessed`' from the rapid motion of the clouds,
+The pilot soon boarded us to leeward, and the "`guessing`" shortly commenced,--such as,
+"`I guess you are from Liverpool?`" "`I guess you have had pretty smart weather?`" Etc.
+For my own part, I "`guessed`" from the rapid motion of the clouds,
 that we should have another rough night, and so it proved.
 As the ship was beating to windward,
 the crew were toiling incessantly through the whole of it; and such was the noise,
@@ -175,7 +175,7 @@ and we worked up the bay amidst fields of floating ice,
 drifting from the mouth of the Hudson river.
 The morning was so foggy in the neighbourhood of the city,
 that the signal of the telegraph announcing the approach of the George Washington,
-was not discovered by the '`look out,`' so that we
+was not discovered by the "`look out,`" so that we
 were within three miles of the wharf at New York,
 before a steamer came to assist us through the ice.
 By the way, I think the method of steering the American steamers is admirable:
@@ -216,7 +216,7 @@ and the necessity of the whole heart being given
 up to follow the Son of Man in the regeneration.
 In the afternoon I had to revive the words of the
 apostle,--"`the weapons of our warfare are not carnal,
-but mighty through God to the pulling down of strongholds querying,
+but mighty through God to the pulling down of strongholds,`" querying,
 what we knew of this for ourselves.
 
 15th.--We were favoured with a blessed meeting,
@@ -243,7 +243,7 @@ The disciple is not above his master, nor the servant above his lord, etc.
 24th.--Attended the Quarterly Meeting, in which I had to sound an alarm amongst Friends,
 declaring that the Most High will have a church, He will have a people for himself,
 that shall show forth his praise.
-Many were willing and ready to join in the "`Hosannato the son
+Many were willing and ready to join in the "`Hosanna the son
 of David;`" but how few were found to confess Him,
 and to stand by Him, at the blood-stained cross: one betrayed his Master,
 another denied Him, and they all forsook Him and fled.
@@ -313,7 +313,7 @@ the Orange Street and the Arch Street Meetings, in all of which my mouth was ope
 On the 15th, I visited an afflicted family, the mother having died two days before.
 After seeing the corpse, we had a contriting opportunity with the father and children,
 under the wing of the Prince of Peace.
-Coming to Philadelphia seems to haw opened a wide door
+Coming to Philadelphia seems to have opened a wide door
 for me in the minds of a large body of Friends,
 and gives strength again to move forward:
 leaving New York has I trust been in the right ordering,
@@ -332,6 +332,7 @@ but living and substantial truth.
 +++[+++The following is a letter of Daniel Wheeler written about this time to John Wilbur:^
 footnote:[This letter was not taken from the Journal of the Life and Labour
 of John Wilbur and included in this memoir by The Friends Library.]]
+//It says "This letter was NOT taken..." This was circled in the book....is it right the way it is? Is it stating it wasn't taken from John Wibur's journal? idk. 
 
 [.letter-heading]
 To John Wilbur
@@ -664,7 +665,7 @@ The crucified Saviour was declared to a large assemblage,
 including I suppose many Hicksites, but all was quietly received.
 
 27th.--Proceeded to Wilmington and was kindly received at the abode of Samuel Hillis.
-This city is built in a`'well chosen situation, with the noble Delaware in its front,
+This city is built in a well chosen situation, with the noble Delaware in its front,
 and the Brandy Wine and Christiana rivers navigable up to the wharfs.
 At the foot of the Brandy Wine, many mills are established,
 where the bulk of the American flour that is exported is dried and ground.
@@ -811,7 +812,7 @@ we were embarked on board a steamer; we proceeded down the spacious Potomac,
 as far as the head of Potomac Creek, which runs up from Chesapeake Bay.
 Here we were packed in crowded clumsy stages, and conveyed nine miles to Fredericsburgh,
 where we were again seated in a railway car, holding about sixty persons;
-many of them in rocking chairs, which seem quite a sine qua non with all classes here.
+many of them in rocking chairs, which seem quite a _sine qua non_ with all classes here.
 We reached the station near Taylorsville about four o`'clock the next morning;
 but as this is merely a boarded shed, where whiskey and cider are sold,
 we walked on to the village, carrying our luggage with us.
@@ -834,7 +835,7 @@ probably from a desire to drink; when the harness broke,
 and the poor animals drank their fill, while our negro driver repaired damages,
 cutting up parts of the harness to strengthen what had given way.
 The weather was very sultry, and we reached the mansion of Nathaniel C. Crenshaw,
-just at the commence merit of a heavy thunder storm.
+just at the commencement of a heavy thunder storm.
 We were most hospitably received,
 although a large party of Friends had already assembled, like ourselves,
 on their way to the Yearly Meeting of Virginia, to be held the next day at Cedar Creek,
@@ -845,6 +846,7 @@ was satisfactory; and afterwards the Meeting for Sufferings.
 
 19th. (First Day.)--The people collected for the forenoon meeting in great numbers.
 The neighbourhood of the meeting house exhibited such a display of equipages,
+//equipages is archaic, but I'm not sure what definiton Wheeler was meaning here. Possibly horse drawn carriages? 
 as I could not have supposed the country hereaway was capable of making.
 Many of the coloured people also attended.
 The meeting house was built before the separation, and therefore of large dimensions,
@@ -873,7 +875,7 @@ It was, I believe, a day of solemn warning and renewed visitation to many,
 and particularly to the young people in membership with us.
 I felt bound to revive among them the fatherly invitation of the Most High,
 "`Come out of Babylon, my people, that you be not partakers of her sins,
-and that yo receive not of her plagues.`"
+and that you receive not of her plagues.`"
 "`Come out from among them, and be separate, says the Lord, and I will receive you:
 and I will be a father unto you, and you shall be my sons and daughters,
 says the Lord Almighty.`"

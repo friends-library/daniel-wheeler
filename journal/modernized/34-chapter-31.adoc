@@ -248,7 +248,7 @@ Many of the people came to us in a loving manner, when the meeting broke up,
 and hung about while we remained in the neighbourhood.
 It was matter of very painful regret to us to find,
 that these dear people are in the practice, as they feel their minds affected,
-of breaking out into clamorous groaning, and saying '`Amen`' with a loud voice;
+of breaking out into clamorous groaning, and saying "`Amen`" with a loud voice;
 until a stranger is at a loss to conceive in what this dissipating practice may end:
 it is evidently encouraged by their teachers.
 They were this day turned to the teachings of that grace in their own hearts,
@@ -359,7 +359,7 @@ that do business in great waters,--that see the works of the Lord,
 and his wonders in the deep.`"
 Although such may often feel excluded from their fellow-men,
 shut out from every opportunity of religious instruction,
-and destitute of the '`means of grace;`' this is evidently not the case,
+and destitute of the "`means of grace;`" this is evidently not the case,
 but a delusion of the great enemy of God and man;
 although it may be often held out by those who have a zeal for God,
 but not according to knowledge, of whom the great apostle speaks.
@@ -903,7 +903,7 @@ and some of them remained so the whole time.
 The wind became unfavourable in the night,
 and prevented our seeing the isle of Aano next morning as was calculated upon.
 +++[+++Haanna in the Map?]
-
+//Not sure what this means in the line above
 4th.--When morning came, it was found that we had drifted towards the island of Kao,
 in appearance a lofty mountain of regular conic shape rising out of the sea,
 and evidently of volcanic origin.

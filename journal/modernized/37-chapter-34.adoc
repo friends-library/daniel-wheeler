@@ -199,8 +199,8 @@ in condescending mercy to a poor, way-worn, unprofitable servant.
 It was now proposed by William Williams,
 that I should attend their place of public worship,
 and after the customary service was gone through in the New Zealand language,
-according to their prescribed forms; he said, '`if you have a word for the people,
-I will interpret for you.`' This was more than I had looked for, or dared to hope,
+according to their prescribed forms; he said, "`if you have a word for the people,
+I will interpret for you.`" This was more than I had looked for, or dared to hope,
 but a few days ago.
 Although not exactly accordant with my own views, or if I might have chosen for myself,
 what I should have proposed; yet I have of late, I think,
@@ -233,7 +233,7 @@ to such, the message of everlasting love flowed freely, and I humbly trust,
 was as a shower upon the thirsty soil.
 It was an open and relieving season:--it was the Lord`'s doing, and, I believe,
 marvellous in the eyes of some present.
-There were several European families, besides those of artizans,
+There were several European families, besides those of artisans,
 attached one way or other to the mission; which,
 with the boys`' school and the natives of the surrounding neighbourhood,
 formed a considerable body of the people: but the praise was His alone,
@@ -344,7 +344,7 @@ A considerable time was then occupied in going round to the different huts,
 I could perceive that Charles Baker availed himself of the
 circumstance of my having been among the islands in the South Seas,
 with the glad tidings of the gospel; when one of the chiefs immediately asked,
-'`if the people of those islands had listened.`' I am not
+"`if the people of those islands had listened.`" I am not
 aware of the reply of our interpreter to this question,
 though we fully understood the sort of conversation going forward,
 by the names of the different islands that were mentioned;
@@ -547,7 +547,7 @@ arrived in the Bay of Islands.
 The way seemed now to open with clearness, before leaving New Zealand,
 to draw up an address to the missionaries stationed at Paihia, Keri-Keri, Waimate,
 Tepuna, etc,
-and all the members belonging to the '`Church Missionary Society,`' (as
+and all the members belonging to the "`Church Missionary Society,`" (as
 it is denominated by themselves,) employed in New Zealand;
 and as I endeavoured to keep close to this prospect,
 it more and more brightened before me.
@@ -634,6 +634,7 @@ the very scum and offscouring of the nations which gave them birth,
 and not a few of these my own countrymen: however, under all these unhappy circumstances,
 the New Zealanders are a noble race of men;
 and though far behind-hand in that gentleness and docility which
+//"behind-hand" was circled in the book. Not sure if it should be changed, or what to.
 characterize the swarthy multitudes of the more sultry climates,
 in which the Georgian, Society, Hervey, and other isles of the Pacific ocean are placed;
 and they certainly possess greater energy and firmness of character.
@@ -1086,7 +1087,7 @@ but particularly of England and America,
 which are the nations principally implicated in this dreadful traffic.
 Scarcely a ship arrives, but what has for sale rum, muskets, and gunpowder,
 for all of which the natives are extremely eager:
-many of these are denominated '`Temperance ships,`' and yet are
+many of these are denominated "`Temperance ships,`" and yet are
 engaged in producing madness amongst the natives,
 by furnishing the means of intoxication,
 at the same time supplying them with weapons of destruction to complete their misery.
@@ -1105,7 +1106,7 @@ which we have visited,--lamentation and mourning and woe,
 must inevitably be their portion.
 Rum, muskets, and gunpowder, are articles brought in great abundance,
 particularly by the American ships,
-many of which are styled '`Temperance ships.`' It is an incontrovertible fact,
+many of which are styled "`Temperance ships.`" It is an incontrovertible fact,
 that vessels of this description have landed larger quantities
 of spirits on some islands than any other class of ships.
 On almost every island the population decreases,
@@ -1429,7 +1430,7 @@ But let us prove what ground we have for this hope by the test of obedience,
 and examine how far we really have obeyed the commands of Christ: His commandments,
 as His promises, are "`yes and amen forever.`"
 "`Seek first the kingdom of God and his righteousness.`"
-Have we obeyed this important command I Has this been the employment of our life,
+Have we obeyed this important command? Has this been the employment of our life,
 as the first and primary object of our search,
 by which all things needful shall be added unto
 us? Or have we only occasionally remembered it,
@@ -1488,7 +1489,7 @@ than any that man is capable of clothing himself with,
 before the heart is converted unto God.
 "`Except your righteousness exceed the righteousness of the Scribes and Pharisees,
 you shall in no case enter into the kingdom of heaven,`" was declared by our Lord.
-Now this righteousness which excells, is of the Lord;
+Now this righteousness which excels, is of the Lord;
 and none but His children who have been taught of Him, are acquainted with it.
 There are many who take upon themselves to teach others the way to the heavenly kingdom,
 who "`being ignorant of God`'s righteousness,
@@ -1527,9 +1528,9 @@ houses:--are we then acquainted with the appointed means of salvation?
 Nothing will avail us in that hour of extremity,
 but an interest in the Lord Jesus, unto whom all power in heaven and earth is given.
 He died for the sins of all mankind, that all mankind might live.
-Are we acquainted with the power of his Holy Spirit in our hearts.
+Are we acquainted with the power of his Holy Spirit in our hearts?
 Have we not felt this power in our hearts when we have committed sin,
-convincing us of sin, and reproving for it.
+convincing us of sin, and reproving for it?
 Have we bowed to it in obedience, and acknowledged its might,
 and thereby known its sufficiency to save from our sins? If so,
 we have hearkened to the voice of the well-beloved Son, in spirit.
@@ -1637,6 +1638,7 @@ accidentally and without any foundation in fact;
 but this slender ray of hope was of short duration.
 
 Sixth Month 11th. (First day.)--Since the 30th ultimo my pen
+//Have you seen "ultimo" above before? I think it means "in the months preceding present". Do you want me to change this in the modernized? Sounds like his pen's named ultimo. :P
 has been laid aside as to a record of passing events,
 either outward or inward.
 My harp has been hung, as it were, upon the willow, and my lips have been sealed;
@@ -1824,7 +1826,7 @@ I believed it my duty to speak on this important subject.
 
 27th.--In the forenoon the little meeting house was filled.
 James Backhouse had good service both in testimony and supplication.
-The afternoon meeting-was somewhat smaller:
+The afternoon meeting was somewhat smaller:
 James Backhouse had again to exercise his gift.
 Although much of what was expressed during the day passed before the view of my mind,
 yet not feeling what I deem sufficient qualification to warrant my standing up,
