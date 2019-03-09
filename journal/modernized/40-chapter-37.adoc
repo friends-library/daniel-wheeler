@@ -105,38 +105,38 @@ Although my dear Charles had been nearly two years in a critical state of health
 and for the last six or eight months rapidly declining,
 he did not appear entirely to lose the idea of recovery,
 until about a fortnight before his decease: of its great uncertainty he was fully aware.
-In the early part of his illness he would say, '`if it be the will of my heavenly Father,
-I could enjoy life a little longer`' but in its more advanced stages he would acknowledge,
-that '`life is no longer desirable, under such an accumulation of suffering:
-but the will of the Lord be done.`' About twelve days before his close, he said to me,
-'`I am going,--I see it plainly`' and then adverted to a
+In the early part of his illness he would say, "`if it be the will of my heavenly Father,
+I could enjoy life a little longer`" but in its more advanced stages he would acknowledge,
+that '"`life is no longer desirable, under such an accumulation of suffering:
+but the will of the Lord be done.`" About twelve days before his close, he said to me,
+"`I am going,--I see it plainly`" and then adverted to a
 check which had occurred in his disorder,
 and had been the means of allowing him to see all his family;
 speaking of it as a mark of Divine condescension, quite incomprehensible to himself.
-'`It is one of the links in that chain of providences,
-with which I have been so marvellously encompassed.`'
+"`It is one of the links in that chain of providences,
+with which I have been so marvellously encompassed.`"
 
 He used frequently to compare his own case with those
 of others in the family who had preceded him.
-Speaking about this time of dear William, he observed, '`I know little about his death,
+Speaking about this time of dear William, he observed, "`I know little about his death,
 but I know how he lived; he fed on heavenly food.
 O! that I were as much prepared for the change as he was,--to him,
-to die was but to sink into his Father`'s arms;`'--adding with much emphasis,
-'`blessed are those who can die as he did.`'
+to die was but to sink into his Father`'s arms;`"--adding with much emphasis,
+"`blessed are those who can die as he did.`"
 
 He often spoke of his own unworthiness, saying,
 that his only dependence was on the mercy of God in Christ Jesus;
 and on this he seemed to rest without a sense of fear.
 Once or twice, when referring to the composure he felt, he said,
-'`surely I am not self-deceived;`' shortly adding, '`O! no; it cannot be that the mercy,
-which has so signally followed me up to the present time, should now forsake me.`'
+"`surely I am not self-deceived;`" shortly adding, "`O! no; it cannot be that the mercy,
+which has so signally followed me up to the present time, should now forsake me.`"
 
-On one occasion, he said to one of his brothers, '`heed not the world,
+On one occasion, he said to one of his brothers, "`heed not the world,
 nor the things thereof:
-I wish I had heeded it less;`' and once when in great bodily extremity, he exclaimed,
-'`here is the end of pride!`'
+I wish I had heeded it less;`" and once when in great bodily extremity, he exclaimed,
+"`here is the end of pride!`"
 
-He frequently engaged in fervent prayer for patience and support,
+it was thought that the following sketch which occurs after the decease of our brother,
 for the pardon of all transgressions, and a release in the Lord`'s time.
 Three days before his death, he was heard to say,--"`Bless the Lord,
 O my soul! and forget not all His benefits.`"
@@ -157,7 +157,7 @@ and perhaps his own sufferings from thirst, which were at times distressing,
 led him to realize more fully the blessedness of those
 thus set free from the infirmities of the flesh.
 A few days before his death, when parched with fever, and much exhausted, he exclaimed,
-'`I shall soon be where all is rest, and more than rest,`' referring to the passage,
+"`I shall soon be where all is rest, and more than rest,`" referring to the passage,
 "`Eye has not seen,`" etc.
 
 One evening when in a very suffering state, he remarked,
@@ -171,20 +171,20 @@ he thought the mental struggle less severe.
 
 On the morning of the 5th, (of Second Month, 1840,) we thought him very near his close;
 but he afterwards revived, and seemed disappointed at being again delayed.
-On the same day, when in severe pain, he supplicated thus: '`O! Lord, if it please you,
+On the same day, when in severe pain, he supplicated thus: "`O! Lord, if it please you,
 grant me a little patience; for without your holy aid,
-it is past all mortal endurance.`' As evening approached,
+it is past all mortal endurance.`" As evening approached,
 he seemed to have an extraordinary dread of the coming night, exclaiming despondingly,
-'`another night, another night;`' and truly it proved a season of severe conflict,
+"`another night, another night;`" and truly it proved a season of severe conflict,
 though the last of mortal suffering.
 About nine p.m., a change was noticed, which he soon detected himself,--saying,
-that he thought he was dying; and shortly afterwards, '`O! Lord,
+that he thought he was dying; and shortly afterwards, "`O! Lord,
 if it please your righteous will, release me.
-Blessed be your holy name!`' A short time before the close,
+Blessed be your holy name!`" A short time before the close,
 on being asked if he felt peaceful, he replied calmly,
-'`I feel no fear.`' He bade us separately farewell;
-and I believe his last connected expressions were,--'`You are very kind--the Lord
-Almighty bless you.`' The pains of the body seemed all he had to contend with:
+"`I feel no fear.`" He bade us separately farewell;
+and I believe his last connected expressions were,--"`You are very kind--the Lord
+Almighty bless you.`" The pains of the body seemed all he had to contend with:
 the struggle continued until four a.m., when he quietly expired,
 being apparently sensible till within a few minutes of the last.
 
@@ -268,7 +268,7 @@ which would gather all mankind into the one great sheep-fold of rest and peace,-
 though I have felt no liberty to take any decided measures till lately:
 but the way has within the last few days so remarkably opened,
 as to remove every doubt from my mind of the propriety
-of making preparations for my departure thitherwards.
+of making preparations for my departure there.
 
 Finding it was in vain to attempt seeing my long
 loved friends in other parts of Yorkshire,
@@ -278,7 +278,7 @@ After settling some affairs there, I returned to this place,
 to spend with my children the few days yet remaining, till the sailing of the packet.
 
 27th.--At the week day meeting in Bristol, I stood up with the words,--"`Then restored I,
-that which I took not away stating that these
+that which I took not away;`" stating that these
 expressions had attracted the attention of my mind;
 and although the mysterious language of inspiration,
 I believed they might be understood by all who had
@@ -509,6 +509,7 @@ through Him who died that we might live,
 I am enabled this day to send you a still better account of myself; at which,
 with me you will rejoice in the true fear that keeps the heart clean.
 You must accept it in the gross, as in the present state of my convalescence,
+//"gross" above is circled. Not sure what I should change it to, if at all.
 it is impossible for me to delineate one-half of the Lord`'s gracious dealings with me.
 I trust I shall be able to ride out for air daily in a short time.
 The weather here is very hot,
