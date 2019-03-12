@@ -2,6 +2,7 @@
 
 [discrete]
 === Appendix A:
+// Note in book here to insert this back into story --lint-disable
 
 [.blurb]
 === Letters of the Empress Elizabeth to Her Mother, Relative to the Last Illness and Death of Her Husband, the Emperor Alexander of Russia.
@@ -46,7 +47,7 @@ Elizabeth
 
 [discrete]
 === Appendix B:
-
+// Note here to omit Appendix B --lint-disable
 In the Petersburg Gazette, of the date of Twelfth Month 15th, 1825,
 is contained an account of this insurrection; the extract from which,
 although originally intended for insertion, want of space has compelled us to omit.
@@ -83,7 +84,7 @@ Her countenance was, at this time, beautifully serene and peaceful;
 and once the words "`Jesus`" and "`God`" were clearly distinguished,
 though the import of the sentence could not be collected.
 At another time, observing one of her children in tears, she said distinctly,
-and with the utmost composure,--'`Look up for help:`' thus proving at
+and with the utmost composure,--"`Look up for help:`" thus proving at
 once the tendency of her soul in the hour of extremity towards the
 great object of the Christian`'s faith and hope;
 her consciousness of her own situation, and of surrounding circumstances;
@@ -130,7 +131,7 @@ and on the 28th day of the Third Month, 1833, our mournful and solitary band,
 bowed down at once by sickness and sorrow, followed to her isolated resting-place,
 the remains of our late venerable mother.^
 footnote:[Some of our readers may not, perhaps, be aware,
-that such is the severity of the frost rear Petersburg,
+that such is the severity of the frost near Petersburg,
 that no difficulty would arise in keeping the remains for the long period,
 which circumstances rendered expedient.]
 
@@ -210,7 +211,7 @@ for a moment from their favourite position in the van.
 
 On the morning of the 27th, a sail was discovered a-head,
 and watched with shipboard interest, as it gradually augmented in size,
-till about noon a large whaler '`brought to`' close alongside us.
+till about noon a large whaler "`brought to`" close alongside us.
 English colours were displayed on both sides, and Captain +++_______+++,
 of the Elizabeth of Sydney, accompanied by the surgeon of the vessel, came on board.
 They had been out eight or nine months,
@@ -376,11 +377,11 @@ a numerous class even now.
 The government compels all to attend worship,
 it is said on pain of forfeiture of landed property;^
 footnote:[A respectable resident told us,
-that one flagrant Instance of this came within his knowledge some time back.
+that one flagrant instance of this came within his knowledge some time back.
 A poor man had been out Ashing, and returned too late for the week day service.
 He was tried,
 and his land was taken from him by men empowered to enforce this abominable regulation.
-It is not enrolled in the Tahltlan code of laws, but is said to be a '`command`' only.
+It is not enrolled in the Tahltlan code of laws, but is said to be a "`command`" only.
 Remove the penalty, and the command might very safely remain unrepealed.]
 but this coercion of course does no more than enforce a
 ceremony,--if indeed from its unchristian character,
@@ -629,7 +630,7 @@ After surveying this gloomy grove, once associated with scenes of horror and dea
 we continued an intricate passage through innumerable beds of coral,
 till we reached Afareaitu, and were cordially welcomed by the resident English family.
 
-Ninth Month 27`'A,
+Ninth Month 27th,
 1838.--We heard some days since that more ardent spirits have
 just been brought to Tahiti by a schooner from Valparaiso,
 which is now trading in them.
@@ -654,7 +655,7 @@ It is a magnificent sheet of water, encircled by mountains and tropical forests;
 and probably would have been still more gratifying to
 eyes less familiar with the water than ours.
 There is, however,
-an essential distinction between the prospects to which trc are accustomed,
+an essential distinction between the prospects to which we are accustomed,
 and inland lake scenery.
 The characteristic of the former is ceaseless
 fluctuation,--that of the latter unbroken tranquillity.
@@ -683,7 +684,7 @@ etc.
 
 On the afternoon of the 24th,
 we accompanied one of the missionaries on an excursion up the
-salt-water lake mentioned before After walking about two miles,
+salt-water lake mentioned before. After walking about two miles,
 we embarked in a canoe,
 and were pushed along the shore by a man with a long
 pole;--a method adopted where the water is shallow,
@@ -710,7 +711,7 @@ On coming down he was quickly dispatched.
 Our informant ran away in great fear, while the murderers laughed at his terror,
 and exulted in their easy capture.
 
-Fare`' Harbour.
+Fare Harbour.
 Huahiru.--In personal appearance,
 there is no perceptible difference between the
 natives of this island and those of Tahiti;
@@ -795,7 +796,7 @@ and to have been raised from her wreck by the New Zealanders.
 
 On the 3rd of Eleventh Month,
 we started in company with C. Barff and a little boy on an
-excursion to the famous marai of Tabutabu Atea,--situated in
+excursion to the famous marai of Tabutabu Atea,--situated
 // lint-disable invalid-character
 the district of Apóa. The wind being against us all the way,
 it was a hard pull of about twelve miles, which occupied nearly three hours,
@@ -1016,7 +1017,7 @@ an allowance of rum every day!
 
 On the 2nd of Second Month,
 I accompanied Captain C. and his sister on an excursion inland,
-to see the famous mountain pass of Oahu It is situated
+to see the famous mountain pass of Oahu. It is situated
 about seven or eight miles up a fine valley,
 which stretches across the centre of the island, behind the village of Honolulu.
 After crossing the plain of lava which lies along the coast,
@@ -1946,7 +1947,7 @@ that '`execrable sum of all villany,`' still prevails to
 a certain extent among the heathen party;
 although even this monster is rendered less
 destructive by the proximity of a better system.
-Tonga slaves ore made such in the most capricious manner possible;
+Tonga slaves are made such in the most capricious manner possible;
 a word or any slight offence may subject a man to be condemned to the lowest servitude,
 without any trial, and when once sentenced to slavery the curse is hereditary.
 
@@ -2016,8 +2017,8 @@ might be increased and improved by culture to almost any extent.
 The trees and plants most common, are similar to those found in the other groups,
 with comparatively few exceptions.
 The fruits most abundant are shaddocks, papau apples, pine apples, melons, and citrons.
-The orange, so common elsewhere, is very scarce andof had quality; but the papau,
-introduced intothese islands at the same time,
+The orange, so common elsewhere, is very scarce and of bad quality; but the papau,
+introduced into these islands at the same time,
 has more than compensated for the deficiency,--being produced in perfection,
 and in exhaustless quantities.
 To this exotic fruit the islanders are indebted for a valuable
@@ -2131,7 +2132,7 @@ probably several others exist among the neighbouring islands,
 but these are as yet little known.
 It appears that the Fiji tongue has several striking peculiarities
 quite unknown to the other dialects of the Pacific.
-For instance, the sound of th is found in it, if I am correctly informed,
+For instance, the sound of "`th`" is found in it, if I am correctly informed,
 and syllables do not necessarily end with vowels,
 as in all the other known varieties of the Polynesian.
 But there seems to be quite a distinct character about the Fiji islanders altogether:
@@ -2172,7 +2173,7 @@ You can form little idea of the quantity of these
 articles that has been brought to New Zealand:
 it is astonishingly great.
 I remember to have heard a missionary state,
-that in one pa or native fort,--of which he was speaking,
+that in one _pa_ or native fort,--of which he was speaking,
 the chief had In his possession about a ton of gunpowder.
 Many dreadful accidents, as you may suppose, occur with such a formidable combustible,
 thus kept in the huts of these poor reckless natives.
@@ -2181,10 +2182,10 @@ While mentioning war,--the darling passion of uncivilized men,--I am reminded of
 remark made by a New Zealand chief to one of our mission friends,
 who was conversing with him on the subject of a future world.
 The warrior expressed his disapprobation of the opinion which
-the missionary advanced respecting the life to come,
-saying, '`If this be true,
-what is to become of the warrior? If there are no pas to attack,
-he will have nothing to do.`' How much more consistent are the
+the missionary advanced respecting the life to come, saying,
+'`If this be true, what is to become of the warrior?
+If there are no pas to attack, he will have nothing to do.`'
+How much more consistent are the
 present practice and the anticipated paradise of pagans,
 than the lives of the majority of Christians and their professed expectations of a
 scriptural heaven? The warrior of New Zealand sees in a moment,
@@ -2212,7 +2213,7 @@ My allusion to this subject recalls an anecdote which pleased me much at the
 time I heard it from the lips of our venerable friend Samuel Marsden.
 He was talking one day to a New Zealander of the ideas
 entertained by these natives respecting a Supreme Being,
-and asking him what their god was?--what he was like I The warrior placed his hand
+and asking him what their god was?--what he was like? The warrior placed his hand
 so as to produce a shadow on the trunk of a huge tree that stood near them,
 and told his interrogator to look at that.
 '`There,`' said he,
