@@ -711,8 +711,7 @@ On coming down he was quickly dispatched.
 Our informant ran away in great fear, while the murderers laughed at his terror,
 and exulted in their easy capture.
 
-Fare`' Harbour.
-//Should this apostrophe be kept here? It's in the original.
+Fare Harbour.
 Huahiru.--In personal appearance,
 there is no perceptible difference between the
 natives of this island and those of Tahiti;
@@ -767,14 +766,13 @@ or from three to four dollars.
 Horned cattle are plentiful in all the islands we have yet seen,
 and are principally the property of the missionaries.
 When several ships can agree to take an ox among them, beef is sold at about 2d. per lb.
-//Is this $2 per lb?
 Broad print, or cotton dyed a blue colour, is a favourite article of barter,
 and is always sold by the fathom,
 this length being convenient for the garment worn round the waist.
 A fathom is reckoned to be worth nearly a dollar,--about four times its value in England.
 Gaudy-coloured ribbons are about the same price.
 A musket costing at home perhaps 12s. is sold at Tahiti for seven or eight dollars.
-//And would this be 12 cents? I also may have pasted this in a couple of other placees on accident.
+
 On the afternoon of Eleventh Month 2nd,
 we walked out for exercise along the settlement of Uturoa,
 which extends some distance by the seaside,
@@ -799,8 +797,6 @@ and to have been raised from her wreck by the New Zealanders.
 On the 3rd of Eleventh Month,
 we started in company with C. Barff and a little boy on an
 excursion to the famous marai of Tabutabu Atea,--situated in
-// lint-disable invalid-character
-// I'm not sure what that line above is. "marai" in 799 in the book is underlined, not sure what it means. 
 the district of Apóa. The wind being against us all the way,
 it was a hard pull of about twelve miles, which occupied nearly three hours,
 and unfortunately for us it rained at intervals most of the time.
@@ -984,10 +980,9 @@ who vie with each other in risking their necks.
 Foreigners, native nobility, and others, are seen galloping about in all directions,
 to the discomfiture, or at least the '`bodily fear`' of sober pedestrians.
 The Sandwich Island women are really very adroit on horseback;
-//Adroit here isn't archaic, but I had never heard of it. Should I leave it?
 but the posture in which these amazons choose to exhibit,
 violates every feeling of refinement.
-//This last sentence is one of the best I've ever read. :D
+
 22nd.--Some efforts have lately been making on the part of both natives and foreigners,
 in the way of petitioning the government here for the suppression of spirit-selling,
 which is increased to a shocking extent.
