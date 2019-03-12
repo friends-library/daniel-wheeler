@@ -692,7 +692,6 @@ In about an hour we reached the farther end of the lagoon,
 distant perhaps five miles from the place of embarkation.
 The banks as we went along appeared thickly wooded and very thinly inhabited,
 exhibiting little rariety, beside the occasional remains of marais,
-//not sure what marais means here.
 of which there are a great number.
 Our native conductor pointed out the particular
 pile of stones appropriated to his family,
@@ -773,7 +772,6 @@ A fathom is reckoned to be worth nearly a dollar,--about four times its value in
 Gaudy-coloured ribbons are about the same price.
 A musket costing at home perhaps 12s. is sold at Tahiti for seven or eight dollars.
 
-
 On the afternoon of Eleventh Month 2nd,
 we walked out for exercise along the settlement of Uturoa,
 which extends some distance by the seaside,
@@ -799,7 +797,6 @@ On the 3rd of Eleventh Month,
 we started in company with C. Barff and a little boy on an
 excursion to the famous marai of Tabutabu Atea,--situated in
 // lint-disable invalid-character
-
 the district of Apóa. The wind being against us all the way,
 it was a hard pull of about twelve miles, which occupied nearly three hours,
 and unfortunately for us it rained at intervals most of the time.
@@ -2175,7 +2172,7 @@ You can form little idea of the quantity of these
 articles that has been brought to New Zealand:
 it is astonishingly great.
 I remember to have heard a missionary state,
-that in one pa or native fort,--of which he was speaking,
+that in one _pa_ or native fort,--of which he was speaking,
 the chief had In his possession about a ton of gunpowder.
 Many dreadful accidents, as you may suppose, occur with such a formidable combustible,
 thus kept in the huts of these poor reckless natives.
