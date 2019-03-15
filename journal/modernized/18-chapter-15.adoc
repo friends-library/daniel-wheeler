@@ -146,7 +146,7 @@ who had believed it his duty to offer himself as a companion to his father,
 and was finally accepted in that capacity by the Meeting for Sufferings.
 In a letter written on this subject, dated the 2nd of Sixth Month, 1833,
 Charles Wheeler says,
-//does this need to be signaled as a letter? These offsets are tricky.
+
 "`Though by no means unconscious of my incapacity to act in a concern of such importance,
 and however inexpedient to the eye of mere reason such
 a step may be in a temporal point of view;
@@ -190,6 +190,7 @@ when on the 21st they were overtaken by a heavy storm,
 which induced them to seek for shelter near the Isle of Wight.
 The following extracts are from his journal and letters written at this time.]
 
+[.embedded-content-document.letter]
 --
 
 [.letter-heading]
@@ -319,7 +320,6 @@ so that at present all communication is cut off between us and the shore;
 but last night I dispatched a few lines for the
 information of the Meeting for Sufferings.
 
-//not sure if I should end the letter here or after this paragraph. 
 +++[+++On the 31st of Twelfth Month, he writes;]
 in two days more we shall have been six weeks hereabouts,
 and I am sometimes ready to think our dear

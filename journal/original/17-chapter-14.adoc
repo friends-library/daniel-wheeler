@@ -5,6 +5,9 @@
 * Receives Intelligence of the Decease of His Wife and of the Severe Illness of Others in His Family
 * Letters to His Absent Children
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Sarah Smith
 
@@ -748,4 +751,3 @@ and woe,--for the expectation of the people is almost altogether outward, from m
 although vital Christianity was never more talked of.
 
 --
-
