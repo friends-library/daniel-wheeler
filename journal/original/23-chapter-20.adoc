@@ -272,6 +272,9 @@ footnote:[This letter of Daniel Wheeler was taken from
 the Journal of the Life of John Wilbur,
 and included in this memoir by The Friends Library.]]
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To John Wilbur
 
@@ -413,6 +416,8 @@ in which my Charles would gladly join, and believe me thy affectionate friend,
 
 [.signed-section-signature]
 Daniel Wheeler
+
+--
 
 23rd.--The king came on board to breakfast this morning by himself,
 but departed as soon as our reading was over.

@@ -199,6 +199,10 @@ First Month 1st,
 1836.--This morning a deputation of chiefs of the highest order came on board,
 bringing a letter, addressed to me, as follows:--
 
+
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Honolulu, January 1st, 1836.
 
@@ -209,9 +213,14 @@ They are the following:--five barrels of potatoes, five turkeys, five fowls, and
 [.signed-section-signature]
 Na Kinau
 
+--
+
 Finding upon inquiry that to refuse this present, would create much dissatisfaction,
 because entirely intended as a good-will offering,
 the following acknowledgment was returned:
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Henry Freeling, in the harbour of Honolulu,
@@ -236,6 +245,8 @@ I am her and their sincere friend.
 
 [.signed-section-signature]
 Daniel Wheeler
+
+--
 
 Before the business was fully arranged, and the parties gone from the cabin,
 the young king Kauikeaouli arrived, with several of his principal attendants.^
