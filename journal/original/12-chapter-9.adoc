@@ -17,6 +17,9 @@ also the Yearly Meeting held in London.
 
 The following extracts are from letters written on, and after, his return to Russia.
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To John Hipsley, Hull
 
@@ -39,6 +42,11 @@ with my health so much restored and renewed; which cannot fail to raise in all o
 the tribute of thanksgiving and praise to the great and good Shepherd;
 unto whom not only every sheep, but the most helpless lamb, of the flock is known,
 wherever situated, or however hidden.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To One of His Family
@@ -91,6 +99,11 @@ watching continually; that so we may be favoured to discover and escape every te
 and be preserved from the many evils that are in the world,
 and alive unto Him who liveth for ever, through Jesus Christ, the Saviour of men:
 whose blessed Spirit dwelleth in the contrite and humble heart.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Richard Cockin, Doncaster
@@ -145,6 +158,11 @@ that the great and good work is going forward in the hearts of some,
 and perhaps in the hearts of many,
 where least expected or looked for by poor short-sighted man.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Samuel Stansfield^
 footnote:[Samuel Stansfield had resided some years in Petersburg,
@@ -191,10 +209,15 @@ who desire to seek his face in sincerity of heart; and who,
 in matchless and unmerited love, hath provided the blessed means to help our infirmities,
 which, though unutterable, are understood even in sighs and groans.
 
+--
+
 [.offset]
 +++[+++In the next letter,
 he gives an account of the death of the Emperor Alexander in the south of Russia,
 and of the occurrences at the capital consequent upon that lamented event.]
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To John Hipsley, Hull
@@ -279,6 +302,11 @@ First Month 1st, 1826.--Before finishing my letter,
 another proof of the uncertainty of all human affairs is handed to us.
 I shall insert the copy of a letter I received the day after the foregoing was written.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 St. Petersburg, December 14th, 1825.
 
@@ -292,10 +320,12 @@ and that his reign will be only a continuation
 of his brother`'s. The Minister of the Interior,
 whom I saw this moment, says that the Emperor has verbally assured them of the same.
 Let God`'s will be done on earth, as it is in heaven.
-Wishing you well, I am
+Wishing you well, I am.
 
 [.signed-section-closing]
 Most sincerely yours.
+
+--
 
 This letter I received about two, p.m.:--before five o`'clock,
 the scene was entirely changed, and rebellion most artfully contrived,
@@ -404,6 +434,9 @@ whose wondrous mercy has never been withheld,
 from the days of my youth unto the present hour.^
 footnote:[See Appendix B.]
 
+[.embedded-content-document.epistle]
+--
+
 [.letter-heading]
 To Balby Monthly Meeting
 
@@ -495,6 +528,11 @@ In the love of the gospel, I remain your affectionate friend and brother,
 [.signed-section-signature]
 Daniel Wheeler
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Richard Cockin, Doncaster
 
@@ -542,6 +580,11 @@ inclinations were exposed and restrained by her humble,
 simple, and virtuous example.
 It may be said, she died generally beloved and regretted, and very deservedly so.
 Her decease took place on the 4th of Fifth Month, O. S.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To One Of His Family
@@ -630,6 +673,11 @@ and may be disposed to keep near to that power,
 which so evidently and remarkably directed his steps,
 and delivered him from the hands of his enemies.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Richard Cockin, Doncaster
 
@@ -695,3 +743,5 @@ it is but toiling in vain.
 "`He that abideth of old,`" only knows what is in store for us;
 and unto Him I commit myself and my all: well knowing from long experience,
 that a way can be opened, when perhaps there may be less expectation than at other times.
+
+--

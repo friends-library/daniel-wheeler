@@ -23,6 +23,9 @@ and afterwards that held in London, returning to Petersburg in the Sixth Month f
 [.offset]
 The succeeding extracts are from letters written during this period.
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Sarah Smith, Sheffield
 
@@ -67,6 +70,11 @@ I believe that many have been instructed by this bedside.
 
 My little address is now in the press, in York, as well as in London,
 so that I hope it will shortly appear at Sheffield.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To His Absent Family
@@ -190,8 +198,10 @@ Though they may compass us about like bees,
 in the name of the Lord? we will destroy them; for through Him we can do all things,
 but without Him nothing, as it should be done.
 
-[.asterism]
-'''
+--
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Island, called St. Mary`'s, the largest of the Scilly group, 31st of Third Month, 1831.
@@ -435,6 +445,11 @@ I reproved them for it; and I believe many thought it a solemn time.
 The meeting in the Garrison town, was larger than any preceding it;
 and was a highly favoured time throughout.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Sarah Smith, Sheffield
 
@@ -497,6 +512,11 @@ as there will be barely time for me to get to Dublin,
 if I find a steam-boat starting the same day.
 It is very clear that this is not the place of rest for me,
 but I humbly hope it is a road that leads to it.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To His Wife
@@ -564,8 +584,10 @@ The meeting, so far, has been a solemn time:
 I have not had to open my mouth in any of the sittings.
 The disturbed state of this country is certainly appalling.
 
-[.asterism]
-'''
+--
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Liverpool, Fifth Month 3rd, 1831.
@@ -616,3 +638,6 @@ I remain with full assurance of love, your affectionate father,
 
 [.signed-section-signature]
 Daniel Wheeler
+
+--
+

@@ -13,6 +13,9 @@ and to repair to his native country.
 The commencement and progress of this movement,
 are alluded to in the following extracts from his letters.]
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To John Hipsley, Hull
 
@@ -88,10 +91,15 @@ and shown me the path of life; whose excellency is over Israel,
 and who giveth strength and power to His people, to praise and "`glorify`" Him,
 even "`in the fires.`"
 
+--
+
 [.offset]
 +++[+++Soon after the date of the foregoing, he took leave of his family,
 and set sail for England:--the following letter is written
 when on the point of quitting the port of Cronstadt.]
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To His Wife
@@ -154,6 +162,11 @@ I am thine, very affectionately,
 [.signed-section-signature]
 Daniel Wheeler
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To The Same
 
@@ -209,6 +222,11 @@ a large quantity of water had collected in her,
 and the cargo damaged, if nothing worse.
 I intend, if permitted, to keep a sharp look out upon it still.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Sarah Smith, Sheffield
 
@@ -256,11 +274,17 @@ and as an alien even in my father`'s house.
 [.signed-section-signature]
 Daniel Wheeler
 
+[.postscript]
 P+++.+++ S.--What a favour it is, that my dear wife and family are strengthened,
 not only to rise above every disposition to repine,
 but rather to rejoice in that we are accounted worthy to suffer for the great name`'
 s sake,--in the promotion of the cause of truth and righteousness in the earth,
 according to the measure allotted us.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To His Wife
@@ -286,6 +310,9 @@ I was mercifully enabled to prefer a feeble
 petition on behalf of thee and the dear children,
 under a sensible evidence of near access being vouchsafed to the throne of grace,
 in silent breathings for your preservation and welfare.
+
+--
+//Same question here as in modernized. 
 
 Ninth Month 22nd, 1832.
 
@@ -373,6 +400,9 @@ This is the true God, and eternal life.`"
 "`He that believeth on the Son of God hath the witness in himself:`"--yea,
 "`he that hath the Son hath life; and he that hath not the Son of God hath not life.`"
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To His Children
 
@@ -415,6 +445,9 @@ After a full hour occupied in this manner,
 it was concluded that a committee should be
 appointed to express the sense of the meeting,
 in an endorsement of my certificate.
+
+--
+//same question of where to end this. 
 
 [.offset]
 +++[+++The same letter contains the following account of a
