@@ -5,6 +5,9 @@
 * Visit from the Emperor, etc.
 * Great Flood at Petersburg
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Balby Monthly Meeting
 
@@ -64,6 +67,11 @@ So prays your affectionate Friend and brother,
 
 [.signed-section-signature]
 Daniel Wheeler
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Elizabeth Robson^
@@ -129,6 +137,11 @@ And God shall wipe away all tears from their eyes; and there shall be no more de
 neither sorrow, nor crying, neither shall there be any more pain:
 for the former things are passed away.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To a Friend Under Affliction
 
@@ -187,6 +200,11 @@ And O! the weakness and poverty that I daily feel! and the absence of that abili
 which can alone qualify for every good thought, word and work!
 If under feelings of this kind long dispensed, there be no cause for discouragement,
 then may I hope yet to praise Him, who was the health of David`'s countenance and his God.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Friends of Balby Monthly Meeting
@@ -275,6 +293,11 @@ I am your affectionate friend and brother,
 
 [.signed-section-signature]
 Daniel Wheeler
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Richard Cockin, Doncaster
@@ -416,6 +439,11 @@ I remain your affectionate friend,
 [.signed-section-signature]
 Daniel Wheeler
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Sarah Smith, Sheffield
 
@@ -473,8 +501,13 @@ we may be ready and looking for the coming of the heavenly Bridegroom;
 at the same time prepared to wait, should the time be prolonged,
 having a supply of "`oil in our vessels with our lamps.`"
 
+--
+
 [.offset]
 +++[+++In the following letter he speaks of the safe return of his wife and party from England.]
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To John Hipsley, Hull
@@ -516,6 +549,11 @@ This reconciles all, and raises consolation in my mind,
 and a hope that I am still an object of his divine compassion,
 although under a humiliating sense of my unworthiness.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To David Mallinson, Sheffield
 
@@ -537,9 +575,14 @@ and they take more notice of external appearances perhaps,
 than the people in England or in other nations further
 advanced in civilization and religious sensibility.
 
+--
+
 [.offset]
 +++[+++The awful visitation upon the City of Petersburg,
 by the great inundation in the Eleventh Month, 1824, is thus described:--]
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To John Hipsley, Hull
@@ -677,3 +720,5 @@ loving-kindness and mercy which surrounded us,
 I should willingly omit saying any thing about ourselves:
 all belonging to us seem to shrink into nothingness,
 when we behold the surrounding scene of woe and misery.
+
+--
