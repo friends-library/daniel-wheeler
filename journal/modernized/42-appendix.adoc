@@ -4,6 +4,9 @@
 === Appendix A:
 // Note in book here to insert this back into story --lint-disable
 
+[.embedded-content-document.letter]
+--
+
 [.blurb]
 === Letters of the Empress Elizabeth to Her Mother, Relative to the Last Illness and Death of Her Husband, the Emperor Alexander of Russia.
 
@@ -30,8 +33,13 @@ that God will deign to complete the restoration of our beloved invalid.
 [.signed-section-signature]
 Elizabeth
 
+--
+
 [.offset]
 __Second Letter, which soon followed.__
+
+[.embedded-content-document.letter]
+--
 
 I have lost all--the angel is no more;--dead, he smiles upon me,
 as he so often did while living.
@@ -41,6 +49,8 @@ I shall remain near the deceased, and shall follow him as fast as my strength wi
 
 [.signed-section-context-close]
 Elizabeth
+
+--
 
 [.asterism]
 '''
