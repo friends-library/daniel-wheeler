@@ -655,6 +655,9 @@ which were literally translated to us; one of which I subjoin as a specimen,
 which will suffice for the whole, as they are nearly in the same strain.
 It is from Tekori, a boy of about sixteen years of age.
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 This is my speech to you, Daniel Wheeler
 
@@ -700,6 +703,8 @@ And now, may the grace of God be granted to us--even so--Amen.
 
 [.signed-section-context-close]
 From Tekori: that is all I have to say.
+
+--
 
 16th.--Since quitting the neighbourhood of Rarotonga, our course has been directed,
 when the weather would permit, towards the Friendly Islands,

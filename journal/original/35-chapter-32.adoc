@@ -369,6 +369,9 @@ but that of sailing in the morning towards Tongataboo.
 [.offset]
 The following are copies of letters received while at the island of Lifuka:--
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Lifuka, October 10th, 1836.
 
@@ -401,6 +404,11 @@ John Thomas, Chairman
 
 [.signed-section-signature]
 James Watkin, Secretary
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Lifuka, Ilaabai, October 17th, 1836.
@@ -444,6 +452,8 @@ Yours affectionately,
 [.signed-section-signature]
 John Thomas, William Allen Brooks, John Hofps, Stephen Rabone, James Watkin, John Spinney,
 Charles Tucker
+
+--
 
 17th.--Unmoored at the earliest dawn of day.
 Soon after we were ready, our passenger James Watkin came on board,
@@ -1009,6 +1019,9 @@ Under these considerations, a fair copy was drawn up by Charles,
 and put into the hands of James Watkin, accompanied by the following letter,
 which was addressed to the missionaries at the Friendly Islands.
 
+[.embedded-content-document.epistle]
+--
+
 [.salutation]
 Dear Friends,
 
@@ -1039,3 +1052,6 @@ Daniel Wheeler
 
 [.signed-section-context-close]
 Henry Freeling, off Nukulofa, Tongataboo, 1st of Eleventh Month, 1836.
+
+--
+

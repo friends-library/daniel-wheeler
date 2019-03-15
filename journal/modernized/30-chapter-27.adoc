@@ -281,6 +281,9 @@ who alone can make it subservient to any purpose for his own praise and glory,
 and the well-being of the workmanship of his hands.
 The following is a copy of the address:--
 
+[.embedded-content-document.address]
+--
+
 [.blurb]
 === Address to the Rulers of the Sandwich Islands
 
@@ -526,6 +529,8 @@ Daniel Wheeler
 [.signed-section-context-close]
 On board the Henry Freeling, in the harbour of Honolulu, the 1st of Third Month, 1836.
 Sandwich Isle, Oahu.
+
+--
 
 13th. (First day.)--Remained on board through the day with our own people.
 Strippedness and poverty of mind are my present portion, and perhaps,
