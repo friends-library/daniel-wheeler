@@ -1282,7 +1282,6 @@ provided with "`oil in our vessels with our lamps.`"
 [.embedded-content-document.letter]
 --
 
-
 [.letter-heading]
 To Richard Cockin
 
@@ -1318,4 +1317,3 @@ and therefore request on behalf of my family and self,
 that thou wilt procure for us a copy of the address.
 
 --
-

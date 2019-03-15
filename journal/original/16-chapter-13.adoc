@@ -312,7 +312,6 @@ under a sensible evidence of near access being vouchsafed to the throne of grace
 in silent breathings for your preservation and welfare.
 
 --
-//Same question here as in modernized. 
 
 Ninth Month 22nd, 1832.
 
@@ -447,11 +446,13 @@ appointed to express the sense of the meeting,
 in an endorsement of my certificate.
 
 --
-//same question of where to end this. 
 
 [.offset]
 +++[+++The same letter contains the following account of a
 remarkable communication made in the Yearly Meeting of 1832.]
+
+[.embedded-content-document.letter]
+--
 
 Thinking the substance of a testimony borne in the Yearly Meeting this year,
 will interest you, I shall transcribe it, as follows:
@@ -499,6 +500,8 @@ and if we consider the hundreds who are busily engaged
 in turning the attention of the people to the letter,
 to the traditions and ordinances of man, "`after the rudiments of the world,
 and not after Christ,`" what must be the end thereof?
+
+--
 
 Sheffield, Tenth Month 8th.
 

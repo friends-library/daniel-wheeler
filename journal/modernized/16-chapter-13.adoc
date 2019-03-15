@@ -309,7 +309,7 @@ I was mercifully enabled to prefer a feeble
 petition on behalf of you and the dear children,
 under a sensible evidence of near access being vouchsafed to the throne of grace,
 in silent breathings for your preservation and welfare.
-//I'm not sure if this letter ended here. It seems it does, but i'm not 100%.
+
 --
 
 Ninth Month 22nd, 1832.
@@ -445,11 +445,13 @@ appointed to express the sense of the meeting,
 in an endorsement of my certificate.
 
 --
-//Not sure what to do here either. It's from the same letter, but idk if the offset is enought to seperate it? 
 
 [.offset]
 +++[+++The same letter contains the following account of a
 remarkable communication made in the Yearly Meeting of 1832.]
+
+[.embedded-content-document.letter]
+--
 
 Thinking the substance of a testimony borne in the Yearly Meeting this year,
 will interest you, I shall transcribe it, as follows:
@@ -497,6 +499,8 @@ and if we consider the hundreds who are busily engaged
 in turning the attention of the people to the letter,
 to the traditions and ordinances of man, "`after the rudiments of the world,
 and not after Christ,`" what must be the end thereof?
+
+--
 
 Sheffield, Tenth Month 8th.
 
