@@ -86,6 +86,9 @@ and I shall dwell in the house of the Lord for ever.`"
 in the course of which he addressed the following
 letter to his friend the late Samuel Smith of Sheffield.]
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Sixth Month 26th, 1818.
 
@@ -128,8 +131,13 @@ gratitude to the great Author of all our blessings;
 but I humbly trust, we shall be preserved in humility and watchfulness,
 and in that fear which can alone entitle us to Divine protection and regard.
 
+--
+
 [.offset]
 +++[+++After his arrival at Petersburg, he again writes to his friend Samuel Smith, as follows:]
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Ochta, near Petersburg, Eighth Month 19th, 1818.
@@ -239,10 +247,12 @@ or leap over a wall;`" and which at this time
 enableth me to call every country my country,
 and every man my brother.
 
-[.asterism]
-'''
+--
 
-[.signed-section-context-open]
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Balby Monthly Meeting.
 
 [.signed-section-context-open]
@@ -284,6 +294,11 @@ fervently, and at this time, the desire of your friend,
 
 [.signed-section-signature]
 Daniel Wheeler
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Mordecai Casson
@@ -342,6 +357,11 @@ I have however great consolation in observing,
 that my eldest son also begins to feel the importance of this;
 and it is a great favour when the eldest takes the right way,
 as there is then a hope that the younger ones will follow after.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Barbara Hoyland
@@ -412,6 +432,11 @@ I remain, etc.
 
 [.signed-section-signature]
 Daniel Wheeler
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To David Mallinson of Sheffield
@@ -494,3 +519,5 @@ Believe me, though the restless Baltic rolls between us, your affectionate frien
 
 [.signed-section-signature]
 Daniel Wheeler
+
+--
