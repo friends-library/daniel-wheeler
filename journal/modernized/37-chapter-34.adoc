@@ -1004,7 +1004,6 @@ A copy of a letter from the missionaries at Paihia
 
 [.signed-section-context-open]
 Church Missionary Society`'s Station, Paihia, Bay of Islands, New Zealand, 18th January, 1837.
-//Does the linter catch this after i submit the PR? or should it have caught it so I can break up line 1006 now?
 
 [.salutation]
 Reverend and Dear Sir,
@@ -1415,8 +1414,8 @@ How long we may have to remain here, I know not;
 but I desire to be resigned to wait the blessed Master`'s time.
 
 --
-//I think this is where this letter ends, not certain though.
-[.asterism]
+
+[asterism]
 '''
 
 Third Month 26th.--In the forenoon meeting yesterday I had a close,
