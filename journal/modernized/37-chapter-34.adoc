@@ -671,6 +671,9 @@ will lastingly remain;--that He may be glorified thereby.
 [.offset]
 The following are extracts from the address to the missionaries in New Zealand.
 
+[.embedded-content-document.address]
+--
+
 Finding that I have no longer any place in these parts,
 and being at the same time restrained from journeying forward,
 as when the cloud rested on the tabernacle formerly.
@@ -991,8 +994,13 @@ Daniel Wheeler
 [.signed-section-context-close]
 Henry Freelng, of Paihia, Bay of Islands, First Month 18th, 1837.
 
+--
+
 [.offset]
 A copy of a letter from the missionaries at Paihia
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Church Missionary Society`'s Station, Paihia, Bay of Islands, New Zealand, 18th January, 1837.
@@ -1052,10 +1060,13 @@ Yours, very affectionately,
 [.signed-section-signature]
 Charles Baker, James Stack, William Colenss, William Thomas Fairburn
 
+[.postscript]
 P+++.+++ S.--A difference of location of several of our brethren,
 and the absence of some from home, will not allow of their signing their names;
 but we can confidently say,
 they fully agree with us in this expression of our sentiments.
+
+--
 
 [.offset]
 +++[+++No circumstance attending Daniel Wheeler`'s visit to the South Sea Islands,
@@ -1279,6 +1290,9 @@ and the numerous surplus stores belonging to the ship disposed of;
 these engagements undertaken in an exhausted state of health, occupied much time.
 The following extracts from his journal and letters, refer to this period.]
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To John Kitching
 
@@ -1341,6 +1355,11 @@ wickedness with which this place overflows.
 Let the conduct of those sailors be ever so notorious,
 no one asks to what ship they belong; the thing is so common, and of hourly occurrence.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To the Same
 
@@ -1394,7 +1413,9 @@ which they have learnt from their exterminating visitors.
 How long we may have to remain here, I know not;
 but I desire to be resigned to wait the blessed Master`'s time.
 
-[.asterism]
+--
+
+[asterism]
 '''
 
 Third Month 26th.--In the forenoon meeting yesterday I had a close,

@@ -657,6 +657,9 @@ and which, however distantly separated as to the body, my spirit will earnestly 
 [.offset]
 Extract from a letter of this date written to an intimate friend in England:
 
+[.embedded-content-document.letter]
+--
+
 Time would fail me to tell of the everlasting mercy and
 compassion that have been extended to us-ward,
 in that love which hath compassed about as with a shield,
@@ -698,6 +701,8 @@ eternal life? to whom all power in heaven and earth is given.
 [.signed-section-signature]
 Daniel Wheeler
 
+--
+
 Sixth Month 29th.--There being no probability of further
 intercourse with the natives in these parts of the globe,
 we now return to the true time of England,
@@ -713,6 +718,9 @@ When on the point of leaving the harbour of Honolulu, at Oahu,
 when there could be no further communication between us and the parties concerned,
 a letter was received from the general meeting of the American mission,
 signed by all the members; of which the following is a copy.
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Honolulu, June 16th, 1836.
@@ -784,10 +792,15 @@ Ephraim Spalding, Richard Armstrong, Cochraine Forbes, Wm. P. Alexander,
 Edmund H. Rogers, Lowel Smith, Benj.
 W+++.+++ Parker, Edwin O. Hall.
 
+--
+
 [.offset]
 An acknowledgment of the receipt of this document was sent to Oahu by the British Consul,
 Richard Charlton, as before hinted at; a copy of which now follows,
 with the substance of what quickened upon my mind to the members of the mission.
+
+[.embedded-content-document.epistle]
+--
 
 [.letter-heading]
 To the Members of the Mission at the Sandwich Islands
@@ -850,6 +863,7 @@ Daniel Wheeler
 My son Charles unites with me in an assurance of grateful
 acknowledgment and regard for your kind remembrance of him.
 
+[.postscript]
 P+++.+++ S.--The oppressed condition of the natives of this island is truly affecting,
 and prompts me to remind my constant friend Hiram Bingham,
 of the address that was presented to the king Kinau, etc., at his house,
@@ -857,3 +871,5 @@ to whose care the printing of it was committed.
 
 [.signed-section-context-close]
 Henry Freeling, in the road of Waimea, Isle of Tauai, 27th of Sixth Month, 1836.
+
+--
