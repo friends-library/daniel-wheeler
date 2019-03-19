@@ -19,6 +19,9 @@ since that time, however,
 macadamized roads and good post-houses have been constructed
 along the whole line from Hamburgh to Petersburg.]
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To One of His Sons
 
@@ -134,6 +137,8 @@ Thus have loving-kindness and tender mercy still followed me;
 and I actually feel better in health than when I left London,
 though my legs and hands are somewhat swelled, probably with the cold.
 
+--
+
 [.offset]
 +++[+++He returned to this country in the Sixth Month following,
 where he was shortly afterwards joined by our brother Charles,
@@ -185,6 +190,9 @@ when on the 21st they were overtaken by a heavy storm,
 which induced them to seek for shelter near the Isle of Wight.
 The following extracts are from his journal and letters written at this time.]
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To a Friend
 
@@ -201,6 +209,11 @@ whether of outwardly contending elements or of spiritual conflicts;
 and though the present dispensation may impede our progress towards Cape Horn:
 yet it is my belief, and I am comforted in it, that all will be well at last,
 because ordered by Him in whose will I desire to rest, and in whose tender mercy I trust.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Mary Backhouse
@@ -323,6 +336,11 @@ reconciles me to all the turnings and overturnings of His holy hand;
 and that He will continue to bear me up, is my humble prayer,
 until He shall be pleased to say, '`it is enough.`'
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Hannah Breary
 
@@ -368,6 +386,8 @@ and though frequently feeling something like what is described
 as the solitary "`sparrow on the house-top,`"--yet we know
 that even these poor outcasts are cared for;
 and are sensible that strength is renewed, though perhaps, but in small degree.
+
+--
 
 [.offset]
 +++[+++During the detention of the vessel,
@@ -425,6 +445,9 @@ revives at seasons with increasing and encouraging brightness to my view.
 +++[+++The same day, being that previous to their sailing,
 he addressed a farewell letter to the Committee of the Meeting for Sufferings,
 as follows:]
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 Henry Freeling, Mother-bank, Third Month 14th, 1834.
@@ -610,6 +633,8 @@ from your affectionate friend and brother,
 
 [.signed-section-signature]
 Daniel Wheeler
+
+--
 
 15th of Third Month, at Sea, and clear of the Needle Bocks, all well.
 

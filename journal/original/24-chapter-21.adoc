@@ -600,6 +600,9 @@ written on behalf of the congregation at Tea-hu-poo; which, being directed to my
 I opened; it was found to contain the address that follows,
 as literally translated by Samuel Wilson.
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Tea-hu-poo, 26th of June, 1835.
 
@@ -631,6 +634,8 @@ Signed on behalf of the Church,
 
 [.signed-section-signature]
 Puna
+
+--
 
 At the breaking up of the meeting in the afternoon, I told J. M. Orsmond,
 that I felt so much love to these people,
@@ -763,6 +768,9 @@ whether by staying or going.
 +++[+++Literal translation, by Samuel Wilson of Point Venus, of a letter, received this day,
 from the Queen, in which she remits the port dues on the Henry Freeling.]
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Tahiti, 30th of June, 1835.
 
@@ -779,3 +787,5 @@ I have not therefore demanded the money.
 Health to thee and thy son in your (two) voyaging.
 
 Na Daniella Wira.
+
+--

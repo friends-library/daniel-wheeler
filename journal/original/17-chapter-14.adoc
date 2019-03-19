@@ -5,6 +5,9 @@
 * Receives Intelligence of the Decease of His Wife and of the Severe Illness of Others in His Family
 * Letters to His Absent Children
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Sarah Smith
 
@@ -48,6 +51,11 @@ Thus my dear Lord and Master is leading me along,
 and I trust preparing me to do his righteous will,
 which can in no other way be accomplished, than by the total surrender of our all to Him,
 without reservation.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To His Wife
@@ -133,6 +141,11 @@ In truest affection,
 [.signed-section-signature]
 Daniel Wheeler
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To His Children in Russia
 
@@ -207,6 +220,8 @@ and I trust to the peace of his own mind.
 He had in true gospel authority, like the well taught scribe,
 to bring forth from the treasury of wisdom and knowledge things new and old.
 
+--
+
 [.offset]
 +++[+++The above was written at the house of Joseph John Gurney, at Earlham,
 where during some weeks of indisposition,
@@ -261,6 +276,9 @@ On his arrival there on the 12th of Fourth Month, 1833,
 he was favoured to find the invalids of his family gradually recruiting.
 But to proceed with the correspondence.
 The announcement of the decease of our beloved mother is thus described by himself.]
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 First Month 11th, 1833.
@@ -320,6 +338,11 @@ and the Lord hath taken away, blessed be the name of the Lord.`"
 Not a wish dares to intrude upon the peaceful resignation of my mind.
 I only regret that I had not a personal share in the
 general distress and conflict of the occasion.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To His Children
@@ -545,6 +568,11 @@ and with you wait and lean on the bosom of the beloved and only availing Comfort
 in humble prostration of soul; trusting that I shall be favoured to stand resigned,
 to whatever may be the Divine will.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To One of His Children
 
@@ -721,3 +749,5 @@ and glorified Lord.
 It is indeed a day of lamentation, mourning,
 and woe,--for the expectation of the people is almost altogether outward, from man,
 although vital Christianity was never more talked of.
+
+--
