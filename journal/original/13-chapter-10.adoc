@@ -6,6 +6,9 @@
 * Address to Balby Monthly Meeting, 1828
 * General Correspondence
 
+[.embedded-content-document.epistle]
+--
+
 [.letter-heading]
 To Balby Monthly Meeting
 
@@ -88,6 +91,11 @@ and remain their affectionate Friend,
 [.signed-section-signature]
 Daniel Wheeler
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To John Hipsley, Hull
 
@@ -118,6 +126,11 @@ whether rough or smooth.
 He has a great work before him; and stands in need of that wisdom,
 which is better than rubies,
 to direct and support him in such an arduous and responsible station.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To David Mallinso, Sheffield
@@ -179,6 +192,11 @@ and that her standing is on that sure and eternal foundation,
 against which the storms and afflictions of time can make no impression,
 beyond that of producing a renewed strain of acceptable devotion,
 in the sublime language of "`Thy will be done.`"
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Richard Cockin, Doncaster
@@ -305,6 +323,11 @@ He can at his pleasure hasten the day, when a language formerly adopted,
 may again be truly applicable;--"`The anointing
 which ye have received of him abideth in you,
 and ye need not that any man teach you.`"
+
+--
+
+[.embedded-content-document.epistle]
+--
 
 [.letter-heading]
 To Balby Monthly Meeting
@@ -456,6 +479,11 @@ I remain your affectionate friend and brother,
 [.signed-section-signature]
 Daniel Wheeler
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Richard Cockin, Doncaster
 
@@ -550,6 +578,11 @@ I could bear with cheerfulness, if not with pleasure.
 But in the midst of all, my soul ventureth to hope in the goodness and mercy of God,
 and that, through the merits of a crucified Saviour,
 my sins--even mine--will be blotted out.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Sarah Smith, Sheffield
@@ -709,6 +742,11 @@ and His name glorified.
 Farewell, my dear friend; may heavenly goodness encircle, and comfort,
 and strengthen thy heart.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To a Friend
 
@@ -821,6 +859,11 @@ nothing short of an Almighty power can open the blind eyes,
 and change the stony heart to a heart of flesh,
 capable of receiving the impressions of the everlasting and unchangeable Truth.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To John Hipsley, Hull
 
@@ -836,6 +879,11 @@ in my apprehension is likely to take place, to check the torrent of vice and dis
 to silence the "`Lo! here,`" and "`Lo! there`"--and
 banish from the earth those desolating scourges,
 which make it so destitute of the presence of the Lord.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To David Mallinson, Sheffield
@@ -951,6 +999,11 @@ I was not intending to say so much, when I began with this subject,
 but I think my pen could not be employed in a better cause, or for a better Master:
 at the same time believing, that it will be accepted in the same love,
 that prompted me to write it.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To a Friend, (residing In Finland.)
@@ -1100,6 +1153,11 @@ that are qualified from heartfelt experience to be employed in his service,
 if it be His will to call for them,
 and send them to speak a word in due season to others.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To His Son Joshua
 
@@ -1167,6 +1225,11 @@ and although an utter stranger to business in every shape,
 yet my way was made prosperous; though perhaps what I thought prosperity,
 would be despised by most in the present day, and probably by many in that day also.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To One of His Children
 
@@ -1214,6 +1277,11 @@ to endeavour to be prepared for the change, that will certainly overtake us;
 that we may be like the wise virgins,
 provided with "`oil in our vessels with our lamps.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Richard Cockin
 
@@ -1247,3 +1315,5 @@ and that in all the churches.
 I wish to enjoy the privilege of being a member of Balby Monthly Meeting,
 and therefore request on behalf of my family and self,
 that thou wilt procure for us a copy of the address.
+
+--

@@ -5,6 +5,9 @@
 * Cholera at Petersburg, etc.
 * Epistle to Friends of York Quarterly Meeting, 1832 etc
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Sarah Smith, Sheffield
 
@@ -37,9 +40,14 @@ but I would gladly devote the few remaining days which may be my portion here,
 in declaring "`the mighty acts of the Lord to my benighted fellow creatures,`"
 though unequal and unworthy to show forth half His praise.
 
+--
+
 [.offset]
 +++[+++About this period the cholera prevailed with great virulence at Petersburg;
 the two following letters give some description of this awful visitation.]
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Sarah Backhouse, York
@@ -230,6 +238,11 @@ in the Spirit,`"--the incense will be continually burning:
 and "`in all things we are more than conquerors,
 through Him that loved us;`"--to whom be the praise and the glory forever.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Richard Cockin, Doncaster
 
@@ -344,6 +357,11 @@ Although deprived of all these as to the outward,
 the remembrance of them remains sweet and precious,
 and I trust will lastingly endure with freshness and fragrance, and brighten the days,
 that I may yet have to sojourn in Mesech, and dwell in the tents of Kedar.
+
+--
+
+[.embedded-content-document.epistle]
+--
 
 [.letter-heading]
 To Friends of York Quarterly Meeting
@@ -516,6 +534,11 @@ In the love of the gospel, I remain your affectionate friend and brother,
 [.signed-section-signature]
 Daniel Wheeler
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To John Hipsley, Hull
 
@@ -541,6 +564,11 @@ But whichever way it may terminate, I must rejoice; for if accepted,
 a great weight will be removed from my shoulders; and if thought objectionable,
 I shall still rejoice in having endeavoured to discharge my duty;
 which will enable me to bear the disappointment with patience and submission.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Elizabeth Backhouse, York
@@ -633,3 +661,5 @@ and strengthen him to proclaim the day of the Lord,
 even amongst those who are strangers to His ever great and excellent name;
 that glory to the righteous Lord may resound from far,
 and the voice of thanksgiving and praise be heard on high.
+
+--

@@ -13,6 +13,9 @@ and to repair to his native country.
 The commencement and progress of this movement,
 are alluded to in the following extracts from his letters.]
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To John Hipsley, Hull
 
@@ -88,10 +91,15 @@ and shown me the path of life; whose excellency is over Israel,
 and who gives strength and power to His people, to praise and "`glorify`" Him,
 even "`in the fires.`"
 
+--
+
 [.offset]
 +++[+++Soon after the date of the foregoing, he took leave of his family,
 and set sail for England:--the following letter is written
 when on the point of quitting the port of Cronstadt.]
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To His Wife
@@ -154,6 +162,11 @@ I am yours, very affectionately,
 [.signed-section-signature]
 Daniel Wheeler
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To The Same
 
@@ -209,6 +222,11 @@ a large quantity of water had collected in her,
 and the cargo damaged, if nothing worse.
 I intend, if permitted, to keep a sharp look out upon it still.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Sarah Smith, Sheffield
 
@@ -262,6 +280,11 @@ but rather to rejoice in that we are accounted worthy to suffer for the great na
 s sake,--in the promotion of the cause of truth and righteousness in the earth,
 according to the measure allotted us.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To His Wife
 
@@ -286,6 +309,8 @@ I was mercifully enabled to prefer a feeble
 petition on behalf of you and the dear children,
 under a sensible evidence of near access being vouchsafed to the throne of grace,
 in silent breathings for your preservation and welfare.
+
+--
 
 Ninth Month 22nd, 1832.
 
@@ -373,6 +398,9 @@ This is the true God, and eternal life.`"
 "`He that believes on the Son of God has the witness in himself:`"--yes,
 "`he that has the Son has life; and he that has not the Son of God has not life.`"
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To His Children
 
@@ -416,9 +444,14 @@ it was concluded that a committee should be
 appointed to express the sense of the meeting,
 in an endorsement of my certificate.
 
+--
+
 [.offset]
 +++[+++The same letter contains the following account of a
 remarkable communication made in the Yearly Meeting of 1832.]
+
+[.embedded-content-document.letter]
+--
 
 Thinking the substance of a testimony borne in the Yearly Meeting this year,
 will interest you, I shall transcribe it, as follows:
@@ -466,6 +499,8 @@ and if we consider the hundreds who are busily engaged
 in turning the attention of the people to the letter,
 to the traditions and ordinances of man, "`after the rudiments of the world,
 and not after Christ,`" what must be the end thereof?
+
+--
 
 Sheffield, Tenth Month 8th.
 
