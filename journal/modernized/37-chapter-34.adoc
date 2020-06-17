@@ -1415,7 +1415,7 @@ but I desire to be resigned to wait the blessed Master`'s time.
 
 --
 
-[asterism]
+[.asterism]
 '''
 
 Third Month 26th.--In the forenoon meeting yesterday I had a close,
