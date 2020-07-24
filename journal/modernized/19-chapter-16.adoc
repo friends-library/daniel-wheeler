@@ -8,7 +8,7 @@
 +++[+++The succeeding extracts are from his journal and letters, commencing with the last date.]
 
 After dispatching our letters by the pilot on the 10th of Third Month,
-we made sail into the offing at half-past four, p.m.,
+we made sail into the offing at half-past four p.m.,
 and stretching from under the shelter of the Isle of Wight,
 soon partook of a strong and favourable breeze: great progress was made during the night;
 next morning brought an increase of wind along with it.
@@ -18,7 +18,7 @@ although it was the First day of the week,
 we were compelled to give up the idea of assembling together in the cabin,
 and to content ourselves with reading the Holy Scriptures
 twice in the course of the day with the captain and mate.
-At five o`'clock, p.m. we were abreast of the Lizard light-houses on the Cornish coast,
+At five o`'clock p.m. we were abreast of the Lizard light-houses on the Cornish coast,
 from which our final departure was taken: as the night approached,
 the land was lost sight of, and the wind being strong and fair,
 we launched rapidly away from the mouth of the British Channel.
@@ -280,7 +280,7 @@ and a prodigious swell of the sea from the south-east.
 The swell was so immensely large,
 that we concluded that the summit of one wave was at
 least half a mile distant from that of another.
-A little before five o`'clock, p.m., land was proclaimed by the man at the mast-head;
+A little before five o`'clock p.m., land was proclaimed by the man at the mast-head;
 shortly after,
 we were able to behold from the deck the lofty cliff of Cape Frio on the coast of Brazil,
 about sixty miles east of Rio de Janeiro,
