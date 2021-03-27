@@ -1,4 +1,4 @@
-[#testimony-balby, short="Testimony of Balby Monthly Meeting"]
+[short="Testimony of Balby Monthly Meeting"]
 == A Testimony
 
 [.blurb]
