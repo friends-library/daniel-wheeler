@@ -333,6 +333,9 @@ but living and substantial truth.
 footnote:[This letter was not taken from the Journal of the Life and Labour
 of John Wilbur and included in this memoir by The Friends Library.]]
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To John Wilbur
 
@@ -405,6 +408,8 @@ I am thy affectionate friend,
 
 [.signed-section-signature]
 Daniel Wheeler
+
+--
 
 Third Month 11th.--Since the last entry very much
 confined to the house with an attack of influenza,
