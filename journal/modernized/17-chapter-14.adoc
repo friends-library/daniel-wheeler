@@ -1,7 +1,8 @@
 == Chapter XIV
 
 [.chapter-synopsis]
-* Correspondence Attends Norwich Quarterly Meeting
+* Correspondence
+* Attends Norwich Quarterly Meeting
 * Receives Intelligence of the Decease of His Wife and of the Severe Illness of Others in His Family
 * Letters to His Absent Children
 
@@ -61,7 +62,7 @@ without reservation.
 To His Wife
 
 [.signed-section-context-open]
-Cancood, Twelfth Month 11h, 1832.
+Cancood, Twelfth Month 11th, 1832.
 
 [.salutation]
 My Dearest Jane,

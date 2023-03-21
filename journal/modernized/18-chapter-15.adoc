@@ -224,7 +224,7 @@ Henry Freeling, Spithead, near Portsmouth,
 [.signed-section-context-open]
 Eleventh Month 22nd, 1833.
 
-You wouldest perhaps hear from some kind friend,
+You would perhaps hear from some kind friend,
 how much I had been engaged previously to taking a final departure from London;
 so that I could not write to any one, my time was so fully occupied day by day,
 in rendering what assistance I could in the outfit of our little vessel.
@@ -397,6 +397,9 @@ being made in the person who had the charge of her;
 and while the Committee were looking out for a more suitable one to supply his place,
 Daniel Wheeler thus writes, under date of 15th of Second Month, 1834.]
 
+[.embedded-content-document.letter]
+--
+
 In treating with a person to take the command of our vessel,
 there are many stipulations which ought to be made and insisted upon,
 besides nautical skill and other qualifications.
@@ -419,11 +422,16 @@ is not to make the way more difficult for my dear Friends;
 but in order to save both time and trouble,
 and perhaps prevent much disappointment and uneasiness in future.
 
+--
+
 [.offset]
 +++[+++Owing to a succession of contrary winds and boisterous weather,
 very unusual for such a length of time, their vessel, with many others,
 was detained until the 10th of the Third Month, 1834, when they set sail.
 On the 14th, Daniel Wheeler writes,]
+
+[.embedded-content-document.letter]
+--
 
 It is more than three months since I had my foot on the shore;
 but if I had not persisted in remaining on board,
@@ -441,6 +449,8 @@ however dark the hour of conflict, the entrance of His word is light and life.
 +++[+++He further observes,]
 that the present great object of my life, the service before me,
 revives at seasons with increasing and encouraging brightness to my view.
+
+--
 
 [.offset]
 +++[+++The same day, being that previous to their sailing,

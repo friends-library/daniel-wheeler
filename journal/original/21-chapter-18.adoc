@@ -59,7 +59,6 @@ that our dear friends James Backhouse and George
 Washington Walker were still in these parts and well.
 
 +++[+++In a letter from Hobart Town Daniel Wheeler thus writes:]
-
 My friends will bear with me whilst recapitulating the
 gracious dealings of our heavenly Father,
 as set forth in the extracts from my Journal.
@@ -72,7 +71,11 @@ and this has been resorted to only in cases of extreme danger.
 
 +++[+++In the same letter, he alludes to one of the sailors, who, it appears,
 had been remarkably visited, and brought under feelings of deep condemnation,
-and who opened his mind to him in a letter:--of this man he remarks;]
+and who opened his mind to him in a letter:^
+footnote:[The sailor`'s name was William Bush, and a short account of his
+life was later published, including several letters that passed between him
+and Daniel Wheeler during the voyage.]
+--of this man he remarks;+++]+++
 a lapse of two months had occurred from the time of his first impression,
 before he divulged the secret in that letter.
 I had perceived in his eye, the anguish of his wounded spirit,

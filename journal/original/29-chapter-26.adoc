@@ -791,6 +791,9 @@ Muskets and gunpowder are among the principal articles of barter goods taken to 
 This afternoon I received a letter from the senior missionary here,
 of which the following extract is part:
 
+[.embedded-content-document.letter]
+--
+
 '`I am happy to inform you that today we commence a series of
 meetings with the people for their spiritual benefit.
 The hours of service for five days will be sun-rise, ten o`'clock a.m., two o`'clock p.m.,
@@ -802,6 +805,8 @@ several of my brethren will be present from the other stations on this island.
 If you will favour us with your assistance tomorrow at ten, or at four o`'clock,
 I will gladly interpret for you, Providence permitting.
 Shall be happy to see you and your son at any of our meetings,--the field is white.`'
+
+--
 
 I called the same evening at the writer`'s house; and having considered the subject,
 acknowledged the receipt of his letter,

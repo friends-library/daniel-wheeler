@@ -315,8 +315,7 @@ petition on behalf of thee and the dear children,
 under a sensible evidence of near access being vouchsafed to the throne of grace,
 in silent breathings for your preservation and welfare.
 
---
-
+[.signed-section-context-open]
 Ninth Month 22nd, 1832.
 
 I informed the Select Meeting held at Doncaster on the 12th (nineteen
@@ -402,6 +401,8 @@ even in His Son Jesus Christ.
 This is the true God, and eternal life.`"
 "`He that believeth on the Son of God hath the witness in himself:`"--yea,
 "`he that hath the Son hath life; and he that hath not the Son of God hath not life.`"
+
+--
 
 [.embedded-content-document.letter]
 --
@@ -507,6 +508,10 @@ and not after Christ,`" what must be the end thereof?
 
 --
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Sheffield, Tenth Month 8th.
 
 I was at both meetings at Sheffield yesterday;
@@ -629,3 +634,5 @@ The meeting ended in a truly solemn manner.
 Our dear aged friend William Rickman, was constrained to declare,
 that '`the Truth reigned over all.`' Many prayers were put up for you all,
 as well as for myself and others, who may be engaged to the same work.
+
+--

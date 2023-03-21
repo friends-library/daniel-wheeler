@@ -148,7 +148,7 @@ looking for that blessed hope and the glorious
 appearing of the great God and our Saviour,
 Jesus Christ,`" etc., to the end of the text.
 "`For God is a Spirit: and they that worship him,
-must worship him inspirit and in truth:`" and we are told in holy writ, by the Son,
+must worship him in spirit and in truth:`" and we are told in holy writ, by the Son,
 that "`the Father seeks such to worship him.`"
 I was then carried forth on the nature of true, silent, and spiritual worship,
 to a considerable length; and had to state,
@@ -190,8 +190,8 @@ and Captain Eaglestone having kindly offered, on application being made,
 to forward our views, in circulating the Scriptures in the Spanish language,
 he being on a trading voyage, and of extensive acquaintance,
 this morning eighteen Bibles, eighteen Testaments,
-eighteen Letter by +++________+++ on Christianity,
-with five copies of Wilberforce`'s Practical View,
+eighteen [.book-title]#Letter by J. J. Gurney on Christianity,#
+with five copies of Wilberforce`'s [.book-title]#Practical View,#
 were got ready and delivered to that ship.
 We have met with great civility and willingness to lend
 a helping hand in many of the American captains:
@@ -268,7 +268,7 @@ nor are living under the blessed influence of the gospel.
 the following interesting letter was written by Daniel Wheeler to John Wilbur,
 an American minister in the Society of Friends:^
 footnote:[This letter of Daniel Wheeler was taken from
-the Journal of the Life of John Wilbur,
+the [.book-title]#Journal of the Life of John Wilbur,#
 and included in this memoir by The Friends Library.]]
 
 [.embedded-content-document.letter]
@@ -325,7 +325,7 @@ During this long detention, in the winter months, our little bark,
 of about one hundred tons only, was often tempest-tossed without,
 and some on board often tempest-tossed within.
 
-After having been here about a month, my mind was sorely exercised,
+After having been there about a month, my mind was sorely exercised,
 and there was but one way for me to throw it off, to my relief;
 and this was by making an open avowal, that I was not satisfied to proceed any further,
 let the consequences be what they might,
@@ -534,7 +534,7 @@ and the wisdom of God.`"
 For this cause "`God gave his only begotten Son,
 that whosoever believes in Him should not perish but have
 everlasting life:`"--with more on this important point.
-'`In looking over this large assembly,
+"`In looking over this large assembly,
 the love of God has filled my heart as I have sat
 among you:--may the Lord in heaven bless you,
 is the language that has arisen therein.
@@ -542,7 +542,7 @@ It is this love that induced me to come among you;
 it is this love that would gather all into the heavenly garner of rest and peace.
 Endless in duration is the mercy of the Lord; free and unbounded is His love.
 His love has been long extended to these islands, and covered them as with a mantle.
-This island has had advantages beyond many others.`'
+This island has had advantages beyond many others.`"
 I reminded them that many years
 had now elapsed since the sound of the gospel was first heard in their land:
 they had long had many parts of the Holy Scriptures in circulation,
@@ -615,7 +615,7 @@ In the evening, went on shore for exercise.
 William Henry having purchased supplies for our vessel,
 came on board this morning to procure sundry articles of barter goods.
 In the forenoon, had an opportunity of furnishing a respectable woman with a Testament,
-Selection of Advices, John Woolman`'s Serious Considerations,
+[.book-title]#Selection of Advices,# John Woolman`'s [.book-title]#Serious Considerations,#
 and nine tracts on religious subjects.
 This female was taken into William Henry`'s family when a child of four years old:
 she is well acquainted with the English language, and has a numerous family,
@@ -741,7 +741,7 @@ and low crowned straw hats on their heads, and a broad blue ribbon round them.
 
 5th.--This morning a respectable Spaniard came on board,
 whom I had seen several times when on shore.
-He was presented with +++_______+++`'s Essays in his own language,
+He was presented with +++_______+++`'s [.book-title]#Essays# in his own language,
 with which he seemed highly gratified.
 He had been an officer in the Spanish army,
 and was banished from his country at the last revolution in South America:
@@ -751,7 +751,7 @@ I never saw any person so much pleased and thankful at the
 prospect of having these books furnished him in this country.
 On inquiry, we found that there are three Manilla men here,
 one of whom was in the canoe at the time.
-This man read very intelligibly in +++_______+++`'s Essays;
+This man read very intelligibly in +++_______+++`'s [.book-title]#Essays;#
 and his willingness to receive any books we were
 disposed to give for himself and comrades,
 made us glad that we are in possession of such a variety in their language.

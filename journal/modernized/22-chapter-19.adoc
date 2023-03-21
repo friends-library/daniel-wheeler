@@ -35,7 +35,26 @@ as a considerable swell of the sea from the north-eastward
 kept up an incessant motion of the vessel.^
 footnote:[The following extract from the journal of our friend, James Backhouse,
 between Sydney and Norfolk Island, relative to the seamen on board the Henry Freeling,
-will, it is thought, not be out of place here.]
+will, it is thought, not be out of place here.
+{footnote-paragraph-split}
+"`It is pleasing to see the seamen of the Henry Freeling
+instructing one another in nautical observations and calculations;
+the carpenter is a good navigator,
+and since he became a steady man he has taken pleasure in instructing the other sailors,
+who appear to be improving in knowledge and conduct.
+They strongly exemplify the benefit of temperance principles on board ship.
+They are allowed beer, when it is to be had, and as much tea, coffee, or cocoa,
+as they like.
+There is no swearing to be heard; and the men have the appearance of comfort,
+and spend their leisure in improving themselves, reading, etc.
+Happily neither the captain nor mate make a
+foolish mystery about the course of the vessel,
+such as is common on board many ships, by which the sailors are kept in ignorance,
+to no purpose,
+unless it be to enable the captain and officers to puff themselves up
+with an unworthy conceit of knowing more than those under them,
+and keep the sailors in a state of degradation,
+inimical to good morals and conduct.`"]
 
 Second Month 22nd.--Yesterday the weather was fine and clear, but the wind contrary.
 Several flying-fish made their appearance;
@@ -57,32 +76,14 @@ I thought I was made sensible of a renewal of strength to wrestle for the blessi
 26th. (Fifth day.)--In the forenoon we sat down together in the cabin,
 to wait upon the Lord: much poverty and weakness were sensibly felt.
 The wind still adverse, with considerable swell of the sea,
-but fine and pleasant weather.^
-footnote:["`It is pleasing to see the seamen of the Henry Freeling
-instructing one another in nautical observations and calculations;
-the carpenter is a good navigator,
-and since he became a steady man he has taken pleasure in instructing the other sailors,
-who appear to be improving in knowledge and conduct.
-They strongly exemplify the benefit of temperance principles on board ship.
-They are allowed beer, when it is to be had, and as much tea, coffee, or cocoa,
-as they like.
-There is no swearing to be heard; and the men have the appearance of comfort,
-and spend their leisure in improving themselves, reading, etc.
-Happily neither the captain nor mate make a
-foolish mystery about the course of the vessel,
-such as is common on board many ships, by which the sailors are kept in ignorance,
-to no purpose,
-unless it be to enable the captain and officers to puff themselves up
-with an unworthy conceit of knowing more than those under them,
-and keep the sailors in a state of degradation, inimical to good morals and conduct.`"]
+but fine and pleasant weather.
 
 Third Month 1st. (First day.)--Today we assembled the crew,
 both in the forenoon and afternoon.
 James Backhouse alluded to a text of scripture which had been
 read,--"`Except you eat the flesh of the Son of Man,
-and drink his blood,
-you have no life in you explaining the spiritual interaction
-and communion of the Holy Spirit with the soul of man,
+and drink his blood, you have no life in you`"
+--explaining the spiritual interaction and communion of the Holy Spirit with the soul of man,
 and that the blessed partaking of the flesh and blood of the Son of Man,
 '`can be witnessed by those only, in whom Christ dwells, and they in him,`' etc.
 After dinner the wind became more favourable, and gradually increased to a fine breeze.
@@ -337,7 +338,7 @@ and immediately entered the channel within the reefs;
 but after getting through the most dangerous part, it fell calm,
 which obliged us to drop an anchor for the night,
 directly opposite the house of George Bicknell, so close to the shore,
-that a mooring hawser was made fast to one of his cocoa-nut trees.
+that a mooring hawser was made fast to one of his coconut trees.
 By this time our deck was covered with the natives.
 Just as we were ready to go on shore to take tea at George Bicknell`'s, to whom,
 as deputy Consul, the mail brought from New South Wales had been delivered,
@@ -365,7 +366,7 @@ the vessel was got ready, and run gently down to Papeete Harbour: the water was 
 that the beautifully spreading branches of coral could be plainly
 distinguished as we passed over the most shallow parts of the reef.
 About nine o`'clock a.m., we took up our station in a well-sheltered cove or harbour,
-surrounded by straggling houses and plantations of the cocoa-nut tree, banana,
+surrounded by straggling houses and plantations of the coconut tree, banana,
 breadfruit, orange, and sugar cane, ranging along the edge of the sea,
 on the level land at the foot of the mountains.
 In the forenoon, George Pritchard, the resident missionary came on board;
