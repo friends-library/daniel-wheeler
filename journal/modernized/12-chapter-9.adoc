@@ -327,6 +327,9 @@ Most sincerely yours.
 
 --
 
+[.embedded-content-document.letter]
+--
+
 This letter I received about two p.m.:--before five o`'clock,
 the scene was entirely changed, and rebellion most artfully contrived,
 had thrown off the mask.
@@ -433,6 +436,8 @@ that I may be preserved in watchfulness and faithfulness unto Him,
 whose wondrous mercy has never been withheld,
 from the days of my youth unto the present hour.^
 footnote:[See Appendix B.]
+
+--
 
 [.embedded-content-document.letter]
 --

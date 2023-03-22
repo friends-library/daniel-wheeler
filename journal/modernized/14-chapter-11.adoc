@@ -121,11 +121,12 @@ the same shall judge him in the last day;`"--or to this effect.
 
 There is a new work,
 published by a minister of the Independent denomination of Sunderland,
-entitled The Book of the Priesthood, proving from Scripture, that under the gospel,
+entitled [.book-title]#The Book of the Priesthood,#
+proving from Scripture, that under the gospel,
 the whole institution is at an end.
-I have procured a copy; also one of a smaller work, The Church in Danger from itself,
-and of another, Hurn`'s reasons for Secession from the Church of England.
-The author of The Book of the Priesthood,
+I have procured a copy; also one of a smaller work, [.book-title]#The Church in Danger from itself,#
+and of another, [.book-title]#Hurn`'s reasons for Secession from the Church of England.#
+The author of [.book-title]#The Book of the Priesthood,#
 is now said to be employing his pen on the subject of tithes.
 In short, the nation seems at last to open its eyes,
 or rather to permit their being opened; and I believe that the day is fast approaching,
@@ -195,7 +196,7 @@ which serve to keep alive in us the evil and hindering propensities of fallen na
 that so we may happily come in heart to the Saviour,
 who only can enable us to banish the things of time and sense.
 Though they may compass us about like bees,
-in the name of the Lord? we will destroy them; for through Him we can do all things,
+in the name of the Lord we will destroy them; for through Him we can do all things,
 but without Him nothing, as it should be done.
 
 --
@@ -321,7 +322,7 @@ by the disorderly gathering of the town`'s people,
 attracted by the lights in the windows of the meetinghouse, perhaps a rare thing.
 However, at last, we were favoured, and light sprung up,
 which brought weight and solemnity over all; under a feeling of which we separated.
-S+++.+++ R., an elderly minister, appeared after I sat down,
+Samuel Rundell, an elderly minister, appeared after I sat down,
 in a weighty and confirming testimony.
 The next meeting was at Austle, at three p.m. on the following day: it was small,
 but upon the whole, comfortable: after which I went on to Truro,

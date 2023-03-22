@@ -525,7 +525,7 @@ Daniel Wheeler
 --
 
 [.letter-heading]
-To John Hipslby
+To John Hipsley
 
 [.signed-section-context-open]
 Second Month 7th, 1821.
