@@ -651,6 +651,9 @@ and be able to say from heartfelt living experience,
 In a letter to a friend in England written from the Bay of Islands some weeks afterwards,
 the following passages occur:--
 
+[.embedded-content-document.letter]
+--
+
 The day my sixty-fifth year was completed,
 I was strengthened to proclaim the glad tidings of the gospel, for the first time,
 to a body of New Zealanders at the Koua-Koua station, through an excellent interpreter,
@@ -709,6 +712,8 @@ and whatsoever you shall ask in my name, that will I do,
 that the Father may be glorified in the Son.
 If you shall ask any thing in my name, I will do it.`"
 
+--
+
 28th.--The weather rough, and to us cold.
 Some of the natives came on board in the afternoon.
 Being desirous of purchasing a canoe paddle as a specimen,
@@ -754,7 +759,8 @@ seem swept off the soil.
 By the wreck of the establishment now remaining, it is obvious that this station,
 at one period, must have been an important one.
 We returned on board by six o`'clock p.m. Before parting with this ancient missionary,
-he asked me, if I had with me, No Cross, No Crown, of which I thought we had a copy:
+he asked me, if I had with me, [.book-title]#No Cross, No Crown,#
+of which I thought we had a copy:
 as he seemed desirous to see this book, from a former knowledge of it,
 care was taken to forward the volume,
 the receipt of which was afterwards gratefully acknowledged.
@@ -809,6 +815,7 @@ and the magnitude of their sin.
 for the Lord himself will assuredly plead the cause of the afflicted
 and helpless,--He will hear the voice of their weeping,--He will
 regard their supplication,--He will receive their prayer.
+
 When going last First day to the meeting at Koua-Koua,
 we met a native taking his wife or daughter in his canoe, to one of the ships.
 Our young friend and interpreter remonstrated earnestly with him,
