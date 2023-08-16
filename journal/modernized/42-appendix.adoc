@@ -45,7 +45,7 @@ There now remains to me only you my dear mother, with whom I wish to come and we
 and to be present at the interment.
 I shall remain near the deceased, and shall follow him as fast as my strength will permit.
 
-[.signed-section-context-close]
+[.signed-section-signature]
 Elizabeth
 
 --
@@ -330,8 +330,8 @@ The former appears to be about twenty years of age; and is a mild, intelligent,
 unassuming youth.
 His countenance is not strictly handsome, but it is truly Tahitian and pleasing;
 and his slender form, dark expressive eye,
-and gentle manner,--which are completely Asiatic,
---give something feminine to his appearance.
+and gentle manner,--which are completely Asiatic,--
+give something feminine to his appearance.
 The chiefs who accompanied him were of a much sterner school,
 and all of them considerably older than himself.
 They behaved with great propriety and good nature, and conversed in a friendly,
@@ -382,7 +382,7 @@ The government compels all to attend worship,
 it is said on pain of forfeiture of landed property;^
 footnote:[A respectable resident told us,
 that one flagrant instance of this came within his knowledge some time back.
-A poor man had been out Ashing, and returned too late for the week day service.
+A poor man had been out fishing, and returned too late for the week day service.
 He was tried,
 and his land was taken from him by men empowered to enforce this abominable regulation.
 It is not enrolled in the Tahltlan code of laws, but is said to be a "`command`" only.
@@ -447,7 +447,7 @@ The bread fruit too is highly prized: as a vegetable it is both palatable and wh
 and from the bark of the large trees is made the cloth in common use by the Tahitians.
 Oranges, lemons, limes, melons, vis+++.+++, (_tpondias dulcis;_)
 papaw, (_carica papaya;_) bananas, (_musa sapientum;_)
-pine apples and pumpkins abound among the
+pineapples and pumpkins abound among the
 indigenous and exotic fruits and vegetables of this island.
 If the shore is thus teeming with spontaneous provision for the needs of the inhabitants,
 the surrounding ocean is not less prolific in affording an endless variety of fish.
@@ -2020,7 +2020,7 @@ under different management,
 might be increased and improved by culture to almost any extent.
 The trees and plants most common, are similar to those found in the other groups,
 with comparatively few exceptions.
-The fruits most abundant are shaddocks, papau apples, pine apples, melons, and citrons.
+The fruits most abundant are shaddocks, papau apples, pineapples, melons, and citrons.
 The orange, so common elsewhere, is very scarce and of bad quality; but the papau,
 introduced into these islands at the same time,
 has more than compensated for the deficiency,--being produced in perfection,
@@ -2227,7 +2227,7 @@ see and know to exist`'--or to this effect.
 Is not this a beautiful illustration to come from a New Zealander?
 
 A disturbance occurred today on board one of the ships lying by us,
-which very nearly ended disasterously.
+which very nearly ended disastrously.
 It happened on board an English whaler, commanded by a captain,
 who appears to be much more of a gentleman in manner and conduct,
 when among his countrymen,
@@ -2464,7 +2464,7 @@ The New Zealandere are by far the rudest and most warlike islanders that we have
 whom we met with occasionally among their more docile neighbours;
 and the accounts we have received from residents here,
 confirmed every unfavourable impression,
-that their appearance can make on the mind of a stranger.
+that their appearance can make on the mind of a stranger.)
 I confess I never thought the difference between these and the other Pacific islanders,
 was so very striking as it appears to be.
 They resemble North American Indians to a degree that you would scarcely credit,
